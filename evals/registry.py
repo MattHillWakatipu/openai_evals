@@ -108,7 +108,7 @@ class Registry:
         return BaseEvalSpec(id=alias)
 
     def _process_file(self, registry, path):
-        with open(path, "r") as f:
+        with open(path, "r", encoding="utf8") as f:
             d = yaml.safe_load(f)
 
         if d is None:
