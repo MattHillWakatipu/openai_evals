@@ -1,0 +1,58 @@
+[
+  {
+    "Name": "Bravo",
+    "Health": 20,
+    "Intelligence": 4,
+    "Functional Text": "**Action** - {r}{r}: Until end of turn, your attack action cards with cost 3 or greater gains **dominate**. **Go again**",
+    "Type Text": "Guardian Hero – Young"
+  },
+  {
+    "Name": "Bravo, Showstopper",
+    "Health": 40,
+    "Intelligence": 4,
+    "Functional Text": "**Action** - {r}{r}: Until end of turn, your attack action cards with cost 3 or greater gains **dominate**. **Go again**",
+    "Type Text": "Guardian Hero"
+  },
+  {
+    "Name": "Dorinthea",
+    "Health": 20,
+    "Intelligence": 4,
+    "Functional Text": "**Once per turn Effect** - When a weapon you control hits, you may attack an additional time with that weapon this turn.",
+    "Type Text": "Warrior Hero – Young"
+  },
+  {
+    "Name": "Dorinthea Ironsong",
+    "Health": 40,
+    "Intelligence": 4,
+    "Functional Text": "**Once per turn Effect** - When a weapon you control hits, you may attack an additional time with that weapon this turn.",
+    "Type Text": "Warrior Hero"
+  },
+  {
+    "Name": "Katsu",
+    "Health": 20,
+    "Intelligence": 4,
+    "Functional Text": "The first time an attack action card you control hits each turn, you may discard a card with cost 0. If you do, search your deck for a card with **combo**, banish it face up, then shuffle your deck. You may play it this turn.",
+    "Type Text": "Ninja Hero – Young"
+  },
+  {
+    "Name": "Katsu, the Wanderer",
+    "Health": 40,
+    "Intelligence": 4,
+    "Functional Text": "The first time an attack action card you control hits each turn, you may discard a card with cost 0. If you do, search your deck for a card with **combo**, banish it face up, then shuffle your deck. You may play it this turn.",
+    "Type Text": "Ninja Hero"
+  },
+  {
+    "Name": "Rhinar",
+    "Health": 20,
+    "Intelligence": 4,
+    "Functional Text": "Whenever you discard a card with 6 or more {p} during your action phase, **intimidate**.",
+    "Type Text": "Brute Hero – Young"
+  },
+  {
+    "Name": "Rhinar, Reckless Rampage",
+    "Health": 40,
+    "Intelligence": 4,
+    "Functional Text": "Whenever you discard a card with 6 or more {p} during your action phase, **intimidate**.",
+    "Type Text": "Brute Hero"
+  }
+]
