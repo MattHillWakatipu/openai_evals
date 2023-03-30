@@ -52,6 +52,17 @@ with open('data.jsonl', 'w') as output_file:
                             f"defends for {defense}, " \
                             f"has {power} power, " \
                             f"and has the abilities; {functional_text}"
+
+                    # Create JSON line that includes the colour of the card
+                    json_line = {"input": [{"role": "system",
+                                            "content": f"In the card game Flesh and Blood, what does the card {name} ({colour}) do?"}],
+                                 "ideal": ideal}
+
+                    # Write to JSONL file
+                    output_file.write(json.dumps(json_line))
+                    output_file.write('\n')
+                    continue
+
                 else:
                     ideal = f"{name} is a '{type_text}' card from the 'Welcome to Rathe' set. " \
                             f"It costs {cost}, " \
