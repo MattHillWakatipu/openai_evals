@@ -26,30 +26,44 @@ with open('data.jsonl', 'w') as output_file:
             # TODO change to match in python 3.10
             # Construct an ideal string from the data
             if 'Equipment' in type_text:
-                print(f'Eq:{name}')
-                ideal = f"{name} is a '{type_text}' card from the 'Welcome to Rathe' set. It defends for {defense} and has the abilities; {functional_text}"
+                ideal = f"{name} is a '{type_text}' card from the 'Welcome to Rathe' set. " \
+                        f"It defends for {defense} " \
+                        f"and has the abilities; {functional_text}"
             elif 'Weapon' in type_text:
-                print(f'Wpn:{name}')
-                ideal = f"{name} is a '{type_text}' card from the 'Welcome to Rathe' set. It has {power} power and the abilities; {functional_text}"
+                ideal = f"{name} is a '{type_text}' card from the 'Welcome to Rathe' set. " \
+                        f"It has {power} power " \
+                        f"and the abilities; {functional_text}"
             else:
-                print(f'Crd:{name}')
-                is_cycle = card['Is Cycle']
 
-                # TODO make this a match statement
-                if pitch == 1:
-                    colour = 'Red'
-                elif pitch == 2:
-                    colour = 'Yellow'
-                elif pitch == 3:
-                    colour = 'Blue'
+                # If it's a cycle we need to add the colour to the name string
+                if card['Is Cycle'] == 1:
 
-                if is_cycle == 1:
-                    ideal = f"{name} ({colour}) is a '{type_text}' card from the 'Welcome to Rathe' set. It costs {cost}, pitches for {pitch}, defends for {defense}, has {power} power, and has the abilities; {functional_text}"
+                    # TODO make this a match statement
+                    if pitch == 1:
+                        colour = 'Red'
+                    elif pitch == 2:
+                        colour = 'Yellow'
+                    elif pitch == 3:
+                        colour = 'Blue'
+
+                    ideal = f"{name} ({colour}) is a '{type_text}' card from the 'Welcome to Rathe' set. " \
+                            f"It costs {cost}, " \
+                            f"pitches for {pitch}, " \
+                            f"defends for {defense}, " \
+                            f"has {power} power, " \
+                            f"and has the abilities; {functional_text}"
                 else:
-                    ideal = f"{name} is a '{type_text}' card from the 'Welcome to Rathe' set. It costs {cost}, pitches for {pitch}, defends for {defense}, has {power} power, and has the abilities; {functional_text}"
+                    ideal = f"{name} is a '{type_text}' card from the 'Welcome to Rathe' set. " \
+                            f"It costs {cost}, " \
+                            f"pitches for {pitch}, " \
+                            f"defends for {defense}, " \
+                            f"has {power} power, " \
+                            f"and has the abilities; {functional_text}"
 
             # Create JSON line
-            json_line = {"input": [{"role": "system", "content": f"In the card game Flesh and Blood, what does the card {name} do?"}], "ideal": ideal}
+            json_line = {"input": [{"role": "system",
+                                    "content": f"In the card game Flesh and Blood, what does the card {name} do?"}],
+                         "ideal": ideal}
 
             # Write to JSONL file
             output_file.write(json.dumps(json_line))
