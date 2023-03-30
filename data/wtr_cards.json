@@ -8,7 +8,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Rhinar Specialization**\n\nAs an additional cost to play Alpha Rampage, discard a random card.\n\nWhen you attack with Alpha Rampage, **intimidate**.",
-    "Type Text": "Brute Action – Attack"
+    "Type Text": "Brute Action – Attack",
+    "Is Cycle": 0
   },
   {
     "Name": "Ancestral Empowerment",
@@ -19,7 +20,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "Target Ninja attack action card gains +1{p}.\n\nDraw a card.",
-    "Type Text": "Ninja – Attack Reaction"
+    "Type Text": "Ninja – Attack Reaction",
+    "Is Cycle": 0
   },
   {
     "Name": "Anothos",
@@ -30,7 +32,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Once per turn Action** - {r}{r}{r}: **Attack**\n\nWhile there are 2 or more cards with cost 3 or greater in your pitch zone, Anothos has +2{p}.",
-    "Type Text": "Guardian Weapon – Hammer (2H)"
+    "Type Text": "Guardian Weapon – Hammer (2H)",
+    "Is Cycle": 0
   },
   {
     "Name": "Awakening Bellow",
@@ -41,7 +44,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "The next Brute attack action card you play this turn gains +3{p}.\n\n**Intimidate**\n\n**Go again**",
-    "Type Text": "Brute Action"
+    "Type Text": "Brute Action",
+    "Is Cycle": 1
   },
   {
     "Name": "Awakening Bellow",
@@ -52,7 +56,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "The next Brute attack action card you play this turn gains +2{p}.\n\n**Intimidate**\n\n**Go again**",
-    "Type Text": "Brute Action"
+    "Type Text": "Brute Action",
+    "Is Cycle": 1
   },
   {
     "Name": "Awakening Bellow",
@@ -63,7 +68,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "The next Brute attack action card you play this turn gains +1{p}.\n\n**Intimidate**\n\n**Go again**",
-    "Type Text": "Brute Action"
+    "Type Text": "Brute Action",
+    "Is Cycle": 1
   },
   {
     "Name": "Barkbone Strapping",
@@ -74,7 +80,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Instant** - Destroy Barkbone Strapping: Roll a 6 die. Gain {r} equal to half the number rolled, rounded down.\n\n**Battleworn**",
-    "Type Text": "Brute Equipment – Chest"
+    "Type Text": "Brute Equipment – Chest",
+    "Is Cycle": 0
   },
   {
     "Name": "Barraging Beatdown",
@@ -85,7 +92,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "Your next Brute attack this turn gains \"While this attack is defended by less than 2 non-equipment cards, it has +4{p}.\"\n\n**Intimidate**\n\n**Go again**",
-    "Type Text": "Brute Action"
+    "Type Text": "Brute Action",
+    "Is Cycle": 1
   },
   {
     "Name": "Barraging Beatdown",
@@ -96,7 +104,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "Your next Brute attack this turn gains \"While this attack is defended by less than 2 non-equipment cards, it has +3{p}.\"\n\n**Intimidate**\n\n**Go again**",
-    "Type Text": "Brute Action"
+    "Type Text": "Brute Action",
+    "Is Cycle": 1
   },
   {
     "Name": "Barraging Beatdown",
@@ -107,7 +116,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "Your next Brute attack this turn gains \"While this attack is defended by less than 2 non-equipment cards, it has +2{p}.\"\n\n**Intimidate**\n\n**Go again**",
-    "Type Text": "Brute Action"
+    "Type Text": "Brute Action",
+    "Is Cycle": 1
   },
   {
     "Name": "Barraging Brawnhide",
@@ -118,7 +128,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "While Barraging Brawnhide is defended by less than 2 non-equipment cards, it has +1{p}.",
-    "Type Text": "Generic Action – Attack"
+    "Type Text": "Generic Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Barraging Brawnhide",
@@ -129,7 +140,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "While Barraging Brawnhide is defended by less than 2 non-equipment cards, it has +1{p}.",
-    "Type Text": "Generic Action – Attack"
+    "Type Text": "Generic Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Barraging Brawnhide",
@@ -140,7 +152,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "While Barraging Brawnhide is defended by less than 2 non-equipment cards, it has +1{p}.",
-    "Type Text": "Generic Action – Attack"
+    "Type Text": "Generic Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Biting Blade",
@@ -151,7 +164,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "Target weapon attack gains +3{p}.\n\n**Reprise** - If the defending hero has defended with a card from their hand this chain link, weapons you control gain +1{p} until end of turn",
-    "Type Text": "Warrior Attack Reaction"
+    "Type Text": "Warrior Attack Reaction",
+    "Is Cycle": 1
   },
   {
     "Name": "Biting Blade",
@@ -162,7 +176,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "Target weapon attack gains +2{p}.\n\n**Reprise** - If the defending hero has defended with a card from their hand this chain link, weapons you control gain +1{p} until end of turn",
-    "Type Text": "Warrior Attack Reaction"
+    "Type Text": "Warrior Attack Reaction",
+    "Is Cycle": 1
   },
   {
     "Name": "Biting Blade",
@@ -173,7 +188,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "Target weapon attack gains +1{p}.\n\n**Reprise** - If the defending hero has defended with a card from their hand this chain link, weapons you control gain +1{p} until end of turn",
-    "Type Text": "Warrior Attack Reaction"
+    "Type Text": "Warrior Attack Reaction",
+    "Is Cycle": 1
   },
   {
     "Name": "Blackout Kick",
@@ -184,7 +200,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Combo** - If Rising Knee Thrust was the last attack this combat chain, Blackout Kick gains +3{p}.",
-    "Type Text": "Ninja Action – Attack"
+    "Type Text": "Ninja Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Blackout Kick",
@@ -195,7 +212,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Combo** - If Rising Knee Thrust was the last attack this combat chain, Blackout Kick gains +3{p}.",
-    "Type Text": "Ninja Action – Attack"
+    "Type Text": "Ninja Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Blackout Kick",
@@ -206,7 +224,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Combo** - If Rising Knee Thrust was the last attack this combat chain, Blackout Kick gains +3{p}.",
-    "Type Text": "Ninja Action – Attack"
+    "Type Text": "Ninja Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Blessing of Deliverance",
@@ -217,7 +236,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Go again**\n\nWhen Blessing of Deliverance enters the arena, if you have a card with cost 3 or greater in your pitch zone, draw a card.\n\nAt the beginning of your action phase, destroy Blessing of Deliverance then reveal the top 3 cards of your deck. Gain 1{h} for each card with cost 3 or greater revealed this way.",
-    "Type Text": "Guardian Action – Aura"
+    "Type Text": "Guardian Action – Aura",
+    "Is Cycle": 1
   },
   {
     "Name": "Blessing of Deliverance",
@@ -228,7 +248,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Go again**\n\nWhen Blessing of Deliverance enters the arena, if you have a card with cost 3 or greater in your pitch zone, draw a card.\n\nAt the beginning of your action phase, destroy Blessing of Deliverance then reveal the top 2 cards of your deck. Gain 1{h} for each card with cost 3 or greater revealed this way.",
-    "Type Text": "Guardian Action – Aura"
+    "Type Text": "Guardian Action – Aura",
+    "Is Cycle": 1
   },
   {
     "Name": "Blessing of Deliverance",
@@ -239,7 +260,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Go again**\n\nWhen Blessing of Deliverance enters the arena, if you have a card with cost 3 or greater in your pitch zone, draw a card.\n\nAt the beginning of your action phase, destroy Blessing of Deliverance then reveal the top card of your deck. Gain 1{h} for each card with cost 3 or greater revealed this way.",
-    "Type Text": "Guardian Action – Aura"
+    "Type Text": "Guardian Action – Aura",
+    "Is Cycle": 1
   },
   {
     "Name": "Bloodrush Bellow",
@@ -250,7 +272,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "As an additional cost to play Bloodrush Bellow, discard a random card.\n\nYour Brute attacks gain +2{p} this turn.\n\nIf the discarded card has 6 or more {p}, draw 2 cards and Bloodrush Bellow gains **go again**.",
-    "Type Text": "Brute Action"
+    "Type Text": "Brute Action",
+    "Is Cycle": 0
   },
   {
     "Name": "Bone Head Barrier",
@@ -261,7 +284,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "Roll a 6 sided die. Prevent the next X damage that would be dealt to your hero this turn, where X is the number rolled.",
-    "Type Text": "Brute Instant"
+    "Type Text": "Brute Instant",
+    "Is Cycle": 0
   },
   {
     "Name": "Braveforge Bracers",
@@ -272,7 +296,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Once per turn Action** - {r}: Your next weapon attack this turn gains +1{p}. Activate this ability only if a weapon you control has hit this turn. **Go again**\n\n**Battleworn**",
-    "Type Text": "Warrior Equipment – Arms"
+    "Type Text": "Warrior Equipment – Arms",
+    "Is Cycle": 0
   },
   {
     "Name": "Bravo",
@@ -283,7 +308,8 @@
     "Health": 20,
     "Intelligence": 4,
     "Functional Text": "**Action** - {r}{r}: Until end of turn, your attack action cards with cost 3 or greater gains **dominate**. **Go again**",
-    "Type Text": "Guardian Hero – Young"
+    "Type Text": "Guardian Hero – Young",
+    "Is Cycle": 0
   },
   {
     "Name": "Bravo, Showstopper",
@@ -294,7 +320,8 @@
     "Health": 40,
     "Intelligence": 4,
     "Functional Text": "**Action** - {r}{r}: Until end of turn, your attack action cards with cost 3 or greater gains **dominate**. **Go again**",
-    "Type Text": "Guardian Hero"
+    "Type Text": "Guardian Hero",
+    "Is Cycle": 0
   },
   {
     "Name": "Breaking Scales",
@@ -305,7 +332,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Attack Reaction** - Destroy Breaking Scales: Target attack action card with **combo** gains +1{p}.\n\n**Battleworn**",
-    "Type Text": "Ninja Equipment – Arms"
+    "Type Text": "Ninja Equipment – Arms",
+    "Is Cycle": 0
   },
   {
     "Name": "Breakneck Battery",
@@ -316,7 +344,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "As an additional cost to play Breakneck Battery, discard a random card.\n\nIf the discarded card has 6 or more {p}, Breakneck Battery gains **go again**.",
-    "Type Text": "Brute Action – Attack"
+    "Type Text": "Brute Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Breakneck Battery",
@@ -327,7 +356,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "As an additional cost to play Breakneck Battery, discard a random card.\n\nIf the discarded card has 6 or more {p}, Breakneck Battery gains **go again**.",
-    "Type Text": "Brute Action – Attack"
+    "Type Text": "Brute Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Breakneck Battery",
@@ -338,7 +368,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "As an additional cost to play Breakneck Battery, discard a random card.\n\nIf the discarded card has 6 or more {p}, Breakneck Battery gains **go again**.",
-    "Type Text": "Brute Action – Attack"
+    "Type Text": "Brute Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Buckling Blow",
@@ -349,7 +380,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Crush** - If Buckling Blow deals 4 or more damage to a hero, put a -1{d} counter on target equipment they control.",
-    "Type Text": "Guardian Action – Attack"
+    "Type Text": "Guardian Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Buckling Blow",
@@ -360,7 +392,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Crush** - If Buckling Blow deals 4 or more damage to a hero, put a -1{d} counter on target equipment they control.",
-    "Type Text": "Guardian Action – Attack"
+    "Type Text": "Guardian Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Buckling Blow",
@@ -371,7 +404,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Crush** - If Buckling Blow deals 4 or more damage to a hero, put a -1{d} counter on target equipment they control.",
-    "Type Text": "Guardian Action – Attack"
+    "Type Text": "Guardian Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Cartilage Crush",
@@ -382,7 +416,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Crush** - If Cartilage Crush deals 4 or more damage to a hero, their first action during their next turn costs an additional {r}.",
-    "Type Text": "Guardian Action – Attack"
+    "Type Text": "Guardian Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Cartilage Crush",
@@ -393,7 +428,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Crush** - If Cartilage Crush deals 4 or more damage to a hero, their first action during their next turn costs an additional {r}.",
-    "Type Text": "Guardian Action – Attack"
+    "Type Text": "Guardian Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Cartilage Crush",
@@ -404,7 +440,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Crush** - If Cartilage Crush deals 4 or more damage to a hero, their first action during their next turn costs an additional {r}.",
-    "Type Text": "Guardian Action – Attack"
+    "Type Text": "Guardian Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Cracked Bauble",
@@ -415,7 +452,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "*(Cracked Bauble exists to support Booster Draft and sealed Deck formats. A player may add any number of Cracked Baubles to their deck. Typically, a player would only do this if they did not have enough legally playable cards to make a 30 card minimum deck.)*",
-    "Type Text": "Generic Resource"
+    "Type Text": "Generic Resource",
+    "Is Cycle": 0
   },
   {
     "Name": "Cranial Crush",
@@ -426,7 +464,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Crush** - If Cranial Crush deals 4 or more damage to a hero, they can't draw cards during their next action phase",
-    "Type Text": "Guardian Action – Attack"
+    "Type Text": "Guardian Action – Attack",
+    "Is Cycle": 0
   },
   {
     "Name": "Crazy Brew",
@@ -437,7 +476,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Action** - Destroy Crazy Brew: Roll a 6 sided die. On;\n\n- 1 or 2 - Lose 2{h}. **Go again**\n- 3 or 4 - Gain 2{h}. **Go again**\n- 5 or 6 - Gain {r}{r}, gain 2 action points, and your next attack this turn gains +2{p}.",
-    "Type Text": "Generic Action – Item"
+    "Type Text": "Generic Action – Item",
+    "Is Cycle": 0
   },
   {
     "Name": "Crippling Crush",
@@ -448,7 +488,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Bravo Specialization**\n\n**Crush** - If Crippling Crush deals 4 or more damage to a hero, they discard 2 random cards.",
-    "Type Text": "Guardian Action – Attack"
+    "Type Text": "Guardian Action – Attack",
+    "Is Cycle": 0
   },
   {
     "Name": "Crush Confidence",
@@ -459,7 +500,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Crush** - If Crush Confidence deals 4 or more damage to a hero, they lose all hero card effects and activated abilities until the end of their next turn.",
-    "Type Text": "Guardian Action – Attack"
+    "Type Text": "Guardian Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Crush Confidence",
@@ -470,7 +512,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Crush** - If Crush Confidence deals 4 or more damage to a hero, they lose all hero card effects and activated abilities until the end of their next turn.",
-    "Type Text": "Guardian Action – Attack"
+    "Type Text": "Guardian Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Crush Confidence",
@@ -481,7 +524,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Crush** - If Crush Confidence deals 4 or more damage to a hero, they lose all hero card effects and activated abilities until the end of their next turn.",
-    "Type Text": "Guardian Action – Attack"
+    "Type Text": "Guardian Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Dawnblade",
@@ -492,7 +536,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Once per Turn Action** - {r}: **Attack**\n\nIf Dawnblade hits, and it's the second time it has hit this turn, put a +1{p} counter on Dawnblade.\n\nAt the beginning of your end phase, if Dawnblade has not hit this turn, remove all +1{p} counters from Dawnblade.",
-    "Type Text": "Warrior Weapon – Sword (2H)"
+    "Type Text": "Warrior Weapon – Sword (2H)",
+    "Is Cycle": 0
   },
   {
     "Name": "Debilitate",
@@ -503,7 +548,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Crush** - If Debilitate deals 4 or more damage to a hero, their first attack during their next turn has -2{p}.",
-    "Type Text": "Guardian Action – Attack"
+    "Type Text": "Guardian Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Debilitate",
@@ -514,7 +560,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Crush** - If Debilitate deals 4 or more damage to a hero, their first attack during their next turn has -2{p}.",
-    "Type Text": "Guardian Action – Attack"
+    "Type Text": "Guardian Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Debilitate",
@@ -525,7 +572,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Crush** - If Debilitate deals 4 or more damage to a hero, their first attack during their next turn has -2{p}.",
-    "Type Text": "Guardian Action – Attack"
+    "Type Text": "Guardian Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Demolition Crew",
@@ -536,7 +584,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "As an additional cost to play Demolition Crew, reveal a card in your hand with cost 2 or greater.\n\n**Dominate**",
-    "Type Text": "Generic Action – Attack"
+    "Type Text": "Generic Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Demolition Crew",
@@ -547,7 +596,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "As an additional cost to play Demolition Crew, reveal a card in your hand with cost 2 or greater.\n\n**Dominate**",
-    "Type Text": "Generic Action – Attack"
+    "Type Text": "Generic Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Demolition Crew",
@@ -558,7 +608,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "As an additional cost to play Demolition Crew, reveal a card in your hand with cost 2 or greater.\n\n**Dominate**",
-    "Type Text": "Generic Action – Attack"
+    "Type Text": "Generic Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Disable",
@@ -569,7 +620,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Crush** - If Disable deals 4 or more damage to a hero, put a card from their arsenal on the bottom of its owner deck.",
-    "Type Text": "Guardian Action – Attack"
+    "Type Text": "Guardian Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Disable",
@@ -580,7 +632,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Crush** - If Disable deals 4 or more damage to a hero, put a card from their arsenal on the bottom of its owner deck.",
-    "Type Text": "Guardian Action – Attack"
+    "Type Text": "Guardian Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Disable",
@@ -591,7 +644,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Crush** - If Disable deals 4 or more damage to a hero, put a card from their arsenal on the bottom of its owner deck.",
-    "Type Text": "Guardian Action – Attack"
+    "Type Text": "Guardian Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Dorinthea",
@@ -602,7 +656,8 @@
     "Health": 20,
     "Intelligence": 4,
     "Functional Text": "**Once per turn Effect** - When a weapon you control hits, you may attack an additional time with that weapon this turn.",
-    "Type Text": "Warrior Hero – Young"
+    "Type Text": "Warrior Hero – Young",
+    "Is Cycle": 0
   },
   {
     "Name": "Dorinthea Ironsong",
@@ -613,7 +668,8 @@
     "Health": 40,
     "Intelligence": 4,
     "Functional Text": "**Once per turn Effect** - When a weapon you control hits, you may attack an additional time with that weapon this turn.",
-    "Type Text": "Warrior Hero"
+    "Type Text": "Warrior Hero",
+    "Is Cycle": 0
   },
   {
     "Name": "Driving Blade",
@@ -624,7 +680,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "Your next weapon attack this turn gains +3{p} and **go again**.\n\n**Go again**",
-    "Type Text": "Warrior Action"
+    "Type Text": "Warrior Action",
+    "Is Cycle": 1
   },
   {
     "Name": "Driving Blade",
@@ -635,7 +692,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "Your next weapon attack this turn gains +2{p} and **go again**.\n\n**Go again**",
-    "Type Text": "Warrior Action"
+    "Type Text": "Warrior Action",
+    "Is Cycle": 1
   },
   {
     "Name": "Driving Blade",
@@ -646,7 +704,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "Your next weapon attack this turn gains +1{p} and **go again**.\n\n**Go again**",
-    "Type Text": "Warrior Action"
+    "Type Text": "Warrior Action",
+    "Is Cycle": 1
   },
   {
     "Name": "Drone of Brutality",
@@ -657,7 +716,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "If Drone of Brutality would be put into your graveyard from anywhere, instead put it on the bottom of your deck.",
-    "Type Text": "Generic Action – Attack"
+    "Type Text": "Generic Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Drone of Brutality",
@@ -668,7 +728,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "If Drone of Brutality would be put into your graveyard from anywhere, instead put it on the bottom of your deck.",
-    "Type Text": "Generic Action – Attack"
+    "Type Text": "Generic Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Drone of Brutality",
@@ -679,7 +740,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "If Drone of Brutality would be put into your graveyard from anywhere, instead put it on the bottom of your deck.",
-    "Type Text": "Generic Action – Attack"
+    "Type Text": "Generic Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Emerging Power",
@@ -690,7 +752,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Go again**\n\nAt the beginning of your action phase, destroy Emerging Power then the next Guardian attack action card you play this turn gains +3{p}.",
-    "Type Text": "Guardian Action – Aura"
+    "Type Text": "Guardian Action – Aura",
+    "Is Cycle": 1
   },
   {
     "Name": "Emerging Power",
@@ -701,7 +764,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Go again**\n\nAt the beginning of your action phase, destroy Emerging Power then the next Guardian attack action card you play this turn gains +2{p}.",
-    "Type Text": "Guardian Action – Aura"
+    "Type Text": "Guardian Action – Aura",
+    "Is Cycle": 1
   },
   {
     "Name": "Emerging Power",
@@ -712,7 +776,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Go again**\n\nAt the beginning of your action phase, destroy Emerging Power then the next Guardian attack action card you play this turn gains +1{p}.",
-    "Type Text": "Guardian Action – Aura"
+    "Type Text": "Guardian Action – Aura",
+    "Is Cycle": 1
   },
   {
     "Name": "Energy Potion",
@@ -723,7 +788,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Instant** - Destroy Energy Potion: Gain {r}{r}",
-    "Type Text": "Generic Action – Item"
+    "Type Text": "Generic Action – Item",
+    "Is Cycle": 0
   },
   {
     "Name": "Enlightened Strike",
@@ -734,7 +800,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "As an additional cost to play Enlightened Strike, put a card from your hand on the bottom of your deck.\n\nChoose 1;\n- When you attack with Enlightened Strike, draw a card.\n- Enlightened Strike gains +2{p}.\n- Enlightened Strike gains **go again**.",
-    "Type Text": "Generic Action – Attack"
+    "Type Text": "Generic Action – Attack",
+    "Is Cycle": 0
   },
   {
     "Name": "Flic Flak",
@@ -745,7 +812,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "If the next card you defend with this turn is a card with **combo**, it gains +2{d}.",
-    "Type Text": "Ninja – Defense Reaction"
+    "Type Text": "Ninja – Defense Reaction",
+    "Is Cycle": 1
   },
   {
     "Name": "Flic Flak",
@@ -756,7 +824,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "If the next card you defend with this turn is a card with **combo**, it gains +2{d}.",
-    "Type Text": "Ninja – Defense Reaction"
+    "Type Text": "Ninja – Defense Reaction",
+    "Is Cycle": 1
   },
   {
     "Name": "Flic Flak",
@@ -767,7 +836,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "If the next card you defend with this turn is a card with **combo**, it gains +2{d}.",
-    "Type Text": "Ninja – Defense Reaction"
+    "Type Text": "Ninja – Defense Reaction",
+    "Is Cycle": 1
   },
   {
     "Name": "Flock of the Feather Walkers",
@@ -778,7 +848,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "As an additional cost to play Flock of the Feather Walkers, reveal a card in your hand with cost 1 or less.\n\nWhen you attack with Flock of the Feather Walkers, create a Quicken token.",
-    "Type Text": "Generic Action – Attack"
+    "Type Text": "Generic Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Flock of the Feather Walkers",
@@ -789,7 +860,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "As an additional cost to play Flock of the Feather Walkers, reveal a card in your hand with cost 1 or less.\n\nWhen you attack with Flock of the Feather Walkers, create a Quicken token.",
-    "Type Text": "Generic Action – Attack"
+    "Type Text": "Generic Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Flock of the Feather Walkers",
@@ -800,7 +872,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "As an additional cost to play Flock of the Feather Walkers, reveal a card in your hand with cost 1 or less.\n\nWhen you attack with Flock of the Feather Walkers, create a Quicken token.",
-    "Type Text": "Generic Action – Attack"
+    "Type Text": "Generic Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Fluster Fist",
@@ -811,7 +884,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Combo** - If Open the Center was the last attack this combat chain, Fluster Fist gains +1{p} for each attack that has hit this combat chain.",
-    "Type Text": "Ninja Action – Attack"
+    "Type Text": "Ninja Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Fluster Fist",
@@ -822,7 +896,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Combo** - If Open the Center was the last attack this combat chain, Fluster Fist gains +1{p} for each attack that has hit this combat chain.",
-    "Type Text": "Ninja Action – Attack"
+    "Type Text": "Ninja Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Fluster Fist",
@@ -833,7 +908,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Combo** - If Open the Center was the last attack this combat chain, Fluster Fist gains +1{p} for each attack that has hit this combat chain.",
-    "Type Text": "Ninja Action – Attack"
+    "Type Text": "Ninja Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Forged for War",
@@ -844,7 +920,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Go again**\n\nEquipment you control gain +1{d}.\n\nAt the beginning of your action phase, destroy Forged for War.",
-    "Type Text": "Guardian Action – Aura"
+    "Type Text": "Guardian Action – Aura",
+    "Is Cycle": 0
   },
   {
     "Name": "Fyendal's Spring Tunic",
@@ -855,7 +932,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "At the start of your turn, if Fyendal's Spring Tunic has less than 3 energy counters, you may put an energy counter on it.\n\n**Instant** - Remove 3 energy counters from Fyendal's Spring Tunic: Gain {r}\n\n**Blade Break**",
-    "Type Text": "Generic Equipment – Chest"
+    "Type Text": "Generic Equipment – Chest",
+    "Is Cycle": 0
   },
   {
     "Name": "Glint the Quicksilver",
@@ -866,7 +944,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "Target weapon attack gains **go again**.\n\n**Reprise** - If the defending hero has defended with a card from their hand this chain link, draw a card.",
-    "Type Text": "Warrior Attack Reaction"
+    "Type Text": "Warrior Attack Reaction",
+    "Is Cycle": 0
   },
   {
     "Name": "Goliath Gauntlet",
@@ -877,7 +956,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Action** - Destroy Goliath Gauntlet: The next attack action card with cost 2 or greater you play this turn gains +2{p}. **Go again**",
-    "Type Text": "Generic Equipment – Arms"
+    "Type Text": "Generic Equipment – Arms",
+    "Is Cycle": 0
   },
   {
     "Name": "Harmonized Kodachi",
@@ -888,7 +968,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Once per Turn Action** - {r}: **Attack**\n\nIf you have a card in your pitch zone with cost 0, Harmonized Kodachi has **go again**.",
-    "Type Text": "Ninja Weapon – Dagger (1H)"
+    "Type Text": "Ninja Weapon – Dagger (1H)",
+    "Is Cycle": 0
   },
   {
     "Name": "Head Jab",
@@ -899,7 +980,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Go again**",
-    "Type Text": "Ninja Action – Attack"
+    "Type Text": "Ninja Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Head Jab",
@@ -910,7 +992,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Go again**",
-    "Type Text": "Ninja Action – Attack"
+    "Type Text": "Ninja Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Head Jab",
@@ -921,7 +1004,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Go again**",
-    "Type Text": "Ninja Action – Attack"
+    "Type Text": "Ninja Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Heart of Fyendal",
@@ -932,7 +1016,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Legendary**\n\nWhen you pitch Heart of Fyendal, if you have less {h} than your opponent, gain 1{h}.",
-    "Type Text": "Generic Resource – Gem"
+    "Type Text": "Generic Resource – Gem",
+    "Is Cycle": 0
   },
   {
     "Name": "Heartened Cross Strap",
@@ -943,7 +1028,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Action** - Destroy Heartened Cross Strap: The next attack action card you play this turn costs {r}{r} less to play. **Go again**",
-    "Type Text": "Generic Equipment – Chest"
+    "Type Text": "Generic Equipment – Chest",
+    "Is Cycle": 0
   },
   {
     "Name": "Helm of Isen's Peak",
@@ -954,7 +1040,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Action** - {r}, destroy Helm of Isen Peak: Your hero gains +1{i} until end of turn.\n\n**Battleworn**",
-    "Type Text": "Guardian Equipment – Head"
+    "Type Text": "Guardian Equipment – Head",
+    "Is Cycle": 0
   },
   {
     "Name": "Hope Merchant's Hood",
@@ -965,7 +1052,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Instant** - Destroy Hope Merchant's Hood: Shuffle any number of cards from your hand into your deck, then draw that many cards.",
-    "Type Text": "Generic Equipment – Head"
+    "Type Text": "Generic Equipment – Head",
+    "Is Cycle": 0
   },
   {
     "Name": "Hurricane Technique",
@@ -976,7 +1064,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Combo** - If Rising Knee Thrust was the last attack this combat chain, Hurricane Technique gains +1{p}, **go again**, and \"If Hurricane Technique hits, put it into your hand.\"",
-    "Type Text": "Ninja Action – Attack"
+    "Type Text": "Ninja Action – Attack",
+    "Is Cycle": 0
   },
   {
     "Name": "Ironrot Gauntlet",
@@ -987,7 +1076,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Blade Break**",
-    "Type Text": "Generic Equipment – Arms"
+    "Type Text": "Generic Equipment – Arms",
+    "Is Cycle": 0
   },
   {
     "Name": "Ironrot Helm",
@@ -998,7 +1088,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Blade Break**",
-    "Type Text": "Generic Equipment – Head"
+    "Type Text": "Generic Equipment – Head",
+    "Is Cycle": 0
   },
   {
     "Name": "Ironrot Legs",
@@ -1009,7 +1100,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Blade Break**",
-    "Type Text": "Generic Equipment – Legs"
+    "Type Text": "Generic Equipment – Legs",
+    "Is Cycle": 0
   },
   {
     "Name": "Ironrot Plate",
@@ -1020,7 +1112,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Blade Break**",
-    "Type Text": "Generic Equipment – Chest"
+    "Type Text": "Generic Equipment – Chest",
+    "Is Cycle": 0
   },
   {
     "Name": "Ironsong Determination",
@@ -1031,7 +1124,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "Target weapon gains +1{p} and **dominate** until end of turn.\n\n**Go again**",
-    "Type Text": "Warrior Action"
+    "Type Text": "Warrior Action",
+    "Is Cycle": 0
   },
   {
     "Name": "Ironsong Response",
@@ -1042,7 +1136,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Reprise** - If the defending hero has defended with a card from their hand this chain link, target weapon attack gains +3{p}.",
-    "Type Text": "Warrior Attack Reaction"
+    "Type Text": "Warrior Attack Reaction",
+    "Is Cycle": 1
   },
   {
     "Name": "Ironsong Response",
@@ -1053,7 +1148,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Reprise** - If the defending hero has defended with a card from their hand this chain link, target weapon attack gains +2{p}.",
-    "Type Text": "Warrior Attack Reaction"
+    "Type Text": "Warrior Attack Reaction",
+    "Is Cycle": 1
   },
   {
     "Name": "Ironsong Response",
@@ -1064,7 +1160,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Reprise** - If the defending hero has defended with a card from their hand this chain link, target weapon attack gains +1{p}.",
-    "Type Text": "Warrior Attack Reaction"
+    "Type Text": "Warrior Attack Reaction",
+    "Is Cycle": 1
   },
   {
     "Name": "Katsu",
@@ -1075,7 +1172,8 @@
     "Health": 20,
     "Intelligence": 4,
     "Functional Text": "The first time an attack action card you control hits each turn, you may discard a card with cost 0. If you do, search your deck for a card with **combo**, banish it face up, then shuffle your deck. You may play it this turn.",
-    "Type Text": "Ninja Hero – Young"
+    "Type Text": "Ninja Hero – Young",
+    "Is Cycle": 0
   },
   {
     "Name": "Katsu, the Wanderer",
@@ -1086,7 +1184,8 @@
     "Health": 40,
     "Intelligence": 4,
     "Functional Text": "The first time an attack action card you control hits each turn, you may discard a card with cost 0. If you do, search your deck for a card with **combo**, banish it face up, then shuffle your deck. You may play it this turn.",
-    "Type Text": "Ninja Hero"
+    "Type Text": "Ninja Hero",
+    "Is Cycle": 0
   },
   {
     "Name": "Last Ditch Effort",
@@ -1097,7 +1196,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "When you play Last Ditch Effort, if you have no cards in your deck, it gains +4{p} and **go again**.",
-    "Type Text": "Generic Action – Attack"
+    "Type Text": "Generic Action – Attack",
+    "Is Cycle": 0
   },
   {
     "Name": "Leg Tap",
@@ -1108,7 +1208,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Go again**",
-    "Type Text": "Ninja Action – Attack"
+    "Type Text": "Ninja Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Leg Tap",
@@ -1119,7 +1220,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Go again**",
-    "Type Text": "Ninja Action – Attack"
+    "Type Text": "Ninja Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Leg Tap",
@@ -1130,7 +1232,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Go again**",
-    "Type Text": "Ninja Action – Attack"
+    "Type Text": "Ninja Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Lord of Wind",
@@ -1141,7 +1244,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Katsu Specialization**\n\n**Combo** - If Mugenshi: RELEASE was the last attack this combat chain, as an additional cost to play Lord of Wind, you may pay any amount of {r}. If you do, shuffle that many target cards named Surging Strike, Whelming Gustwave and/or Mugenshi: RELEASE from your graveyard into your deck, then Lord of Wind gains that much {p}.",
-    "Type Text": "Ninja Action – Attack"
+    "Type Text": "Ninja Action – Attack",
+    "Is Cycle": 0
   },
   {
     "Name": "Mask of Momentum",
@@ -1152,7 +1256,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Once per Turn Effect** - When an attack action card you control is the third or higher chain link in a row to hit, draw a card.\n\n**Blade Break**",
-    "Type Text": "Ninja Equipment – Head"
+    "Type Text": "Ninja Equipment – Head",
+    "Is Cycle": 0
   },
   {
     "Name": "Mugenshi: RELEASE",
@@ -1163,7 +1268,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Katsu Specialization**\n\n**Combo** - If Whelming Gustwave was the last attack this combat chain, Mugenshi: RELEASE gains +1{p}, **go again**, and \"If this hits, search your deck for any number of cards named Lord of Wind, reveal them, put them into your hand, then shuffle your deck.\"",
-    "Type Text": "Ninja Action – Attack"
+    "Type Text": "Ninja Action – Attack",
+    "Is Cycle": 0
   },
   {
     "Name": "Nature's Path Pilgrimage",
@@ -1174,7 +1280,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "Your next weapon attack this turn gains +3{p} and \"If this hits and you have no cards in your arsenal, reveal the top card of your deck. If it's an action card, put it face down into your arsenal.\"\n\n**Go again**",
-    "Type Text": "Warrior Action"
+    "Type Text": "Warrior Action",
+    "Is Cycle": 1
   },
   {
     "Name": "Nature's Path Pilgrimage",
@@ -1185,7 +1292,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "Your next weapon attack this turn gains +2{p} and \"If this hits and you have no cards in your arsenal, reveal the top card of your deck. If it's an action card, put it face down into your arsenal.\"\n\n**Go again**",
-    "Type Text": "Warrior Action"
+    "Type Text": "Warrior Action",
+    "Is Cycle": 1
   },
   {
     "Name": "Nature's Path Pilgrimage",
@@ -1196,7 +1304,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "Your next weapon attack this turn gains +1{p} and \"If this hits and you have no cards in your arsenal, reveal the top card of your deck. If it's an action card, put it face down into your arsenal.\"\n\n**Go again**",
-    "Type Text": "Warrior Action"
+    "Type Text": "Warrior Action",
+    "Is Cycle": 1
   },
   {
     "Name": "Nimble Strike",
@@ -1207,7 +1316,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "As an additional cost to play Nimble Strike, you may banish a card named Nimblism from your graveyard. If you do, Nimble Strike gain +1{p} and **go again**.",
-    "Type Text": "Generic Action – Attack"
+    "Type Text": "Generic Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Nimble Strike",
@@ -1218,7 +1328,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "As an additional cost to play Nimble Strike, you may banish a card named Nimblism from your graveyard. If you do, Nimble Strike gain +1{p} and **go again**.",
-    "Type Text": "Generic Action – Attack"
+    "Type Text": "Generic Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Nimble Strike",
@@ -1229,7 +1340,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "As an additional cost to play Nimble Strike, you may banish a card named Nimblism from your graveyard. If you do, Nimble Strike gain +1{p} and **go again**.",
-    "Type Text": "Generic Action – Attack"
+    "Type Text": "Generic Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Nimblism",
@@ -1240,7 +1352,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "The next attack action card with cost 1 or less you play this turn gains +3{p}.\n\n**Go again**",
-    "Type Text": "Generic Action"
+    "Type Text": "Generic Action",
+    "Is Cycle": 1
   },
   {
     "Name": "Nimblism",
@@ -1251,7 +1364,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "The next attack action card with cost 1 or less you play this turn gains +2{p}.\n\n**Go again**",
-    "Type Text": "Generic Action"
+    "Type Text": "Generic Action",
+    "Is Cycle": 1
   },
   {
     "Name": "Nimblism",
@@ -1262,7 +1376,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "The next attack action card with cost 1 or less you play this turn gains +1{p}.\n\n**Go again**",
-    "Type Text": "Generic Action"
+    "Type Text": "Generic Action",
+    "Is Cycle": 1
   },
   {
     "Name": "Open the Center",
@@ -1273,7 +1388,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Combo** - If Head Jab was the last attack this combat chain, Open the Center gains +1{p}, **go again**, and **dominate**.",
-    "Type Text": "Ninja Action – Attack"
+    "Type Text": "Ninja Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Open the Center",
@@ -1284,7 +1400,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Combo** - If Head Jab was the last attack this combat chain, Open the Center gains +1{p}, **go again**, and **dominate**.",
-    "Type Text": "Ninja Action – Attack"
+    "Type Text": "Ninja Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Open the Center",
@@ -1295,7 +1412,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Combo** - If Head Jab was the last attack this combat chain, Open the Center gains +1{p}, **go again**, and **dominate**.",
-    "Type Text": "Ninja Action – Attack"
+    "Type Text": "Ninja Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Overpower",
@@ -1306,7 +1424,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "Target weapon attack gains +4{p}\n\n**Reprise** - If the defending hero has defended with a card from their hand this chain link, instead it gains +6{p}.",
-    "Type Text": "Warrior Attack Reaction"
+    "Type Text": "Warrior Attack Reaction",
+    "Is Cycle": 1
   },
   {
     "Name": "Overpower",
@@ -1317,7 +1436,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "Target weapon attack gains +3{p}\n\n**Reprise** - If the defending hero has defended with a card from their hand this chain link, instead it gains +5{p}.",
-    "Type Text": "Warrior Attack Reaction"
+    "Type Text": "Warrior Attack Reaction",
+    "Is Cycle": 1
   },
   {
     "Name": "Overpower",
@@ -1328,7 +1448,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "Target weapon attack gains +2{p}\n\n**Reprise** - If the defending hero has defended with a card from their hand this chain link, instead it gains +4{p}.",
-    "Type Text": "Warrior Attack Reaction"
+    "Type Text": "Warrior Attack Reaction",
+    "Is Cycle": 1
   },
   {
     "Name": "Pack Hunt",
@@ -1339,7 +1460,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "When you attack with Pack Hunt, **intimidate**.",
-    "Type Text": "Brute Action – Attack"
+    "Type Text": "Brute Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Pack Hunt",
@@ -1350,7 +1472,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "When you attack with Pack Hunt, **intimidate**.",
-    "Type Text": "Brute Action – Attack"
+    "Type Text": "Brute Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Pack Hunt",
@@ -1361,7 +1484,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "When you attack with Pack Hunt, **intimidate**.",
-    "Type Text": "Brute Action – Attack"
+    "Type Text": "Brute Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Potion of Strength",
@@ -1372,7 +1496,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Action** - Destroy Potion of Strength: Your next attack this turn gains +2{p}. **Go again**",
-    "Type Text": "Generic Action – Item"
+    "Type Text": "Generic Action – Item",
+    "Is Cycle": 0
   },
   {
     "Name": "Pounding Gale",
@@ -1383,7 +1508,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Combo** - If Open the Center was the last attack this combat chain, Pounding Gale gains \"If Pounding Gale would deal damage to a hero, instead it deals double that much damage\"",
-    "Type Text": "Ninja Action – Attack"
+    "Type Text": "Ninja Action – Attack",
+    "Is Cycle": 0
   },
   {
     "Name": "Primeval Bellow",
@@ -1394,7 +1520,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "As an additional cost to play Primeval Bellow, discard a random card.\n\nYour next Brute attack this turn gains +5{p}.\n\n**Go again**",
-    "Type Text": "Brute Action"
+    "Type Text": "Brute Action",
+    "Is Cycle": 1
   },
   {
     "Name": "Primeval Bellow",
@@ -1405,7 +1532,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "As an additional cost to play Primeval Bellow, discard a random card.\n\nYour next Brute attack this turn gains +4{p}.\n\n**Go again**",
-    "Type Text": "Brute Action"
+    "Type Text": "Brute Action",
+    "Is Cycle": 1
   },
   {
     "Name": "Primeval Bellow",
@@ -1416,7 +1544,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "As an additional cost to play Primeval Bellow, discard a random card.\n\nYour next Brute attack this turn gains +3{p}.\n\n**Go again**",
-    "Type Text": "Brute Action"
+    "Type Text": "Brute Action",
+    "Is Cycle": 1
   },
   {
     "Name": "Pummel",
@@ -1427,7 +1556,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "Choose 1;\n- Target club or hammer weapon attack gains +4{p}.\n- Target attack action with cost 2 or greater gains +4{p} and \"If this hits a hero, they discard a card.\"",
-    "Type Text": "Generic Attack Reaction"
+    "Type Text": "Generic Attack Reaction",
+    "Is Cycle": 1
   },
   {
     "Name": "Pummel",
@@ -1438,7 +1568,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "Choose 1;\n- Target club or hammer weapon attack gains +3{p}.\n- Target attack action with cost 2 or greater gains +3{p} and \"If this hits a hero, they discard a card.\"",
-    "Type Text": "Generic Attack Reaction"
+    "Type Text": "Generic Attack Reaction",
+    "Is Cycle": 1
   },
   {
     "Name": "Pummel",
@@ -1449,7 +1580,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "Choose 1;\n- Target club or hammer weapon attack gains +2{p}.\n- Target attack action with cost 2 or greater gains +2{p} and \"If this hits a hero, they discard a card.\"",
-    "Type Text": "Generic Attack Reaction"
+    "Type Text": "Generic Attack Reaction",
+    "Is Cycle": 1
   },
   {
     "Name": "Quicken",
@@ -1460,7 +1592,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "When you play an attack action card or activate a weapon attack, destroy Quicken and the attack gains **go again**.",
-    "Type Text": "Generic Token – Aura"
+    "Type Text": "Generic Token – Aura",
+    "Is Cycle": 0
   },
   {
     "Name": "Raging Onslaught",
@@ -1471,7 +1604,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": null,
-    "Type Text": "Generic Action – Attack"
+    "Type Text": "Generic Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Raging Onslaught",
@@ -1482,7 +1616,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": null,
-    "Type Text": "Generic Action – Attack"
+    "Type Text": "Generic Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Raging Onslaught",
@@ -1493,7 +1628,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": null,
-    "Type Text": "Generic Action – Attack"
+    "Type Text": "Generic Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Razor Reflex",
@@ -1504,7 +1640,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "Choose 1;\n- Target sword or dagger weapon attack gains +3{p}.\n- Target attack action card with cost 1 or less gains +3{p} and \"If this hits, this attack gains **go again**.\"",
-    "Type Text": "Generic Attack Reaction"
+    "Type Text": "Generic Attack Reaction",
+    "Is Cycle": 1
   },
   {
     "Name": "Razor Reflex",
@@ -1515,7 +1652,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "Choose 1;\n- Target sword or dagger weapon attack gains +2{p}.\n- Target attack action card with cost 1 or less gains +2{p} and \"If this hits, this attack gains **go again**.\"",
-    "Type Text": "Generic Attack Reaction"
+    "Type Text": "Generic Attack Reaction",
+    "Is Cycle": 1
   },
   {
     "Name": "Razor Reflex",
@@ -1526,7 +1664,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "Choose 1;\n- Target sword or dagger weapon attack gains +1{p}.\n- Target attack action card with cost 1 or less gains +1{p} and \"If this hits, this attack gains **go again**.\"",
-    "Type Text": "Generic Attack Reaction"
+    "Type Text": "Generic Attack Reaction",
+    "Is Cycle": 1
   },
   {
     "Name": "Reckless Swing",
@@ -1537,7 +1676,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "As an additional cost to play Reckless Swing, discard a random card.\n\nIf the discarded card has 6 or more {p}, deal 2 damage to the attacking hero.",
-    "Type Text": "Brute Defense Reaction"
+    "Type Text": "Brute Defense Reaction",
+    "Is Cycle": 0
   },
   {
     "Name": "Refraction Bolters",
@@ -1548,7 +1688,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "When a weapon you control hits, you may destroy Refraction Bolters. If you do, the attack gains **go again**.\n\n**Battleworn**",
-    "Type Text": "Warrior Equipment – Legs"
+    "Type Text": "Warrior Equipment – Legs",
+    "Is Cycle": 0
   },
   {
     "Name": "Regurgitating Slog",
@@ -1559,7 +1700,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "As an additional cost to play Regurgitating Slog, you may banish a card named Sloggism from your graveyard. If you do, Regurgitating Slog gains **dominate**.",
-    "Type Text": "Generic Action – Attack"
+    "Type Text": "Generic Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Regurgitating Slog",
@@ -1570,7 +1712,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "As an additional cost to play Regurgitating Slog, you may banish a card named Sloggism from your graveyard. If you do, Regurgitating Slog gains **dominate**.",
-    "Type Text": "Generic Action – Attack"
+    "Type Text": "Generic Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Regurgitating Slog",
@@ -1581,7 +1724,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "As an additional cost to play Regurgitating Slog, you may banish a card named Sloggism from your graveyard. If you do, Regurgitating Slog gains **dominate**.",
-    "Type Text": "Generic Action – Attack"
+    "Type Text": "Generic Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Remembrance",
@@ -1592,7 +1736,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "Shuffle up to 3 action cards from your graveyard into your deck.\n\nBanish Remembrance.",
-    "Type Text": "Generic Instant"
+    "Type Text": "Generic Instant",
+    "Is Cycle": 0
   },
   {
     "Name": "Rhinar",
@@ -1603,7 +1748,8 @@
     "Health": 20,
     "Intelligence": 4,
     "Functional Text": "Whenever you discard a card with 6 or more {p} during your action phase, **intimidate**.",
-    "Type Text": "Brute Hero – Young"
+    "Type Text": "Brute Hero – Young",
+    "Is Cycle": 0
   },
   {
     "Name": "Rhinar, Reckless Rampage",
@@ -1614,7 +1760,8 @@
     "Health": 40,
     "Intelligence": 4,
     "Functional Text": "Whenever you discard a card with 6 or more {p} during your action phase, **intimidate**.",
-    "Type Text": "Brute Hero"
+    "Type Text": "Brute Hero",
+    "Is Cycle": 0
   },
   {
     "Name": "Rising Knee Thrust",
@@ -1625,7 +1772,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Combo** - If Leg Tap was the last attack this combat chain, Rising Knee Thrust gains +2{p} and **go again**.",
-    "Type Text": "Ninja Action – Attack"
+    "Type Text": "Ninja Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Rising Knee Thrust",
@@ -1636,7 +1784,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Combo** - If Leg Tap was the last attack this combat chain, Rising Knee Thrust gains +2{p} and **go again**.",
-    "Type Text": "Ninja Action – Attack"
+    "Type Text": "Ninja Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Rising Knee Thrust",
@@ -1647,7 +1796,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Combo** - If Leg Tap was the last attack this combat chain, Rising Knee Thrust gains +2{p} and **go again**.",
-    "Type Text": "Ninja Action – Attack"
+    "Type Text": "Ninja Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Romping Club",
@@ -1658,7 +1808,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Once per Turn Action** - {r}{r}: **Attack**\n\n**Once per Turn Effect** – When you discard a card with 6 or more {p}, Romping Club gains +1{p} until end of turn.",
-    "Type Text": "Brute Weapon - Club (2H)"
+    "Type Text": "Brute Weapon - Club (2H)",
+    "Is Cycle": 0
   },
   {
     "Name": "Rout",
@@ -1669,7 +1820,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "Target weapon attack gains +3{p}.\n\n**Reprise** - If the defending hero has defended with a card from their hand this chain link, you may return target non-equipment defending card to its owners hand.",
-    "Type Text": "Warrior Attack Reaction"
+    "Type Text": "Warrior Attack Reaction",
+    "Is Cycle": 0
   },
   {
     "Name": "Sand Sketched Plan",
@@ -1680,7 +1832,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Rhinar Specialization**\n\nSearch your deck for a card, put it into your hand, discard a random card, then shuffle your deck.\n\nIf the discarded card has 6 or more {p}, gain 2 action points.",
-    "Type Text": "Brute Action"
+    "Type Text": "Brute Action",
+    "Is Cycle": 0
   },
   {
     "Name": "Savage Feast",
@@ -1691,7 +1844,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "As an additional cost to play Savage Feast discard a random card.\n\nWhen you attack with Savage Feast, if a card with 6 or more {p} was discarded as an additional cost to play it, draw a card.",
-    "Type Text": "Brute Action – Attack"
+    "Type Text": "Brute Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Savage Feast",
@@ -1702,7 +1856,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "As an additional cost to play Savage Feast discard a random card.\n\nWhen you attack with Savage Feast, if a card with 6 or more {p} was discarded as an additional cost to play it, draw a card.",
-    "Type Text": "Brute Action – Attack"
+    "Type Text": "Brute Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Savage Feast",
@@ -1713,7 +1868,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "As an additional cost to play Savage Feast discard a random card.\n\nWhen you attack with Savage Feast, if a card with 6 or more {p} was discarded as an additional cost to play it, draw a card.",
-    "Type Text": "Brute Action – Attack"
+    "Type Text": "Brute Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Savage Swing",
@@ -1724,7 +1880,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "As an additional cost to play Savage Swing, discard a random card.",
-    "Type Text": "Brute Action – Attack"
+    "Type Text": "Brute Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Savage Swing",
@@ -1735,7 +1892,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "As an additional cost to play Savage Swing, discard a random card.",
-    "Type Text": "Brute Action – Attack"
+    "Type Text": "Brute Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Savage Swing",
@@ -1746,7 +1904,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "As an additional cost to play Savage Swing, discard a random card.",
-    "Type Text": "Brute Action – Attack"
+    "Type Text": "Brute Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Scabskin Leathers",
@@ -1757,7 +1916,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Once per turn Action** - 0: Roll a 6 sided die. Gain action points equal to half the number rolled, rounded down.\n\n**Battleworn**",
-    "Type Text": "Brute Equipment - Legs"
+    "Type Text": "Brute Equipment - Legs",
+    "Is Cycle": 0
   },
   {
     "Name": "Scar for a Scar",
@@ -1768,7 +1928,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "When you play Scar for a Scar, if you have less {h} than an opposing hero, it gains **go again**.",
-    "Type Text": "Generic Action – Attack"
+    "Type Text": "Generic Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Scar for a Scar",
@@ -1779,7 +1940,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "When you play Scar for a Scar, if you have less {h} than an opposing hero, it gains **go again**.",
-    "Type Text": "Generic Action – Attack"
+    "Type Text": "Generic Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Scar for a Scar",
@@ -1790,7 +1952,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "When you play Scar for a Scar, if you have less {h} than an opposing hero, it gains **go again**.",
-    "Type Text": "Generic Action – Attack"
+    "Type Text": "Generic Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Scour the Battlescape",
@@ -1801,7 +1964,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "You may put a card from your hand on the bottom of your deck. If you do, draw a card.\n\nIf Scour the Battlescape is played from arsenal, it gains **go again**.",
-    "Type Text": "Generic Action – Attack"
+    "Type Text": "Generic Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Scour the Battlescape",
@@ -1812,7 +1976,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "You may put a card from your hand on the bottom of your deck. If you do, draw a card.\n\nIf Scour the Battlescape is played from arsenal, it gains **go again**.",
-    "Type Text": "Generic Action – Attack"
+    "Type Text": "Generic Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Scour the Battlescape",
@@ -1823,7 +1988,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "You may put a card from your hand on the bottom of your deck. If you do, draw a card.\n\nIf Scour the Battlescape is played from arsenal, it gains **go again**.",
-    "Type Text": "Generic Action – Attack"
+    "Type Text": "Generic Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Seismic Surge",
@@ -1834,7 +2000,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "At the beginning of your action phase, destroy Seismic Surge then the next Guardian attack action card you play this turn costs {r} less to play.",
-    "Type Text": "Guardian Token – Aura"
+    "Type Text": "Guardian Token – Aura",
+    "Is Cycle": 0
   },
   {
     "Name": "Sharpen Steel",
@@ -1845,7 +2012,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "Your next weapon attack this turn gains +3{p}.\n\n**Go again**",
-    "Type Text": "Warrior Action"
+    "Type Text": "Warrior Action",
+    "Is Cycle": 1
   },
   {
     "Name": "Sharpen Steel",
@@ -1856,7 +2024,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "Your next weapon attack this turn gains +2{p}.\n\n**Go again**",
-    "Type Text": "Warrior Action"
+    "Type Text": "Warrior Action",
+    "Is Cycle": 1
   },
   {
     "Name": "Sharpen Steel",
@@ -1867,7 +2036,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "Your next weapon attack this turn gains +1{p}.\n\n**Go again**",
-    "Type Text": "Warrior Action"
+    "Type Text": "Warrior Action",
+    "Is Cycle": 1
   },
   {
     "Name": "Show Time!",
@@ -1878,7 +2048,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Bravo Specialization**\n\nWhen Show Time! enters the arena, search your deck for a Guardian attack action card, reveal it and put it into your hand, then shuffle your deck.\n\nAt the beginning of your action phase, destroy Show Time! then draw a card.",
-    "Type Text": "Guardian Action – Aura"
+    "Type Text": "Guardian Action – Aura",
+    "Is Cycle": 0
   },
   {
     "Name": "Sigil of Solace",
@@ -1889,7 +2060,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "Gain 3{h}",
-    "Type Text": "Generic Instant"
+    "Type Text": "Generic Instant",
+    "Is Cycle": 1
   },
   {
     "Name": "Sigil of Solace",
@@ -1900,7 +2072,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "Gain 2{h}",
-    "Type Text": "Generic Instant"
+    "Type Text": "Generic Instant",
+    "Is Cycle": 1
   },
   {
     "Name": "Sigil of Solace",
@@ -1911,7 +2084,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "Gain 1{h}",
-    "Type Text": "Generic Instant"
+    "Type Text": "Generic Instant",
+    "Is Cycle": 1
   },
   {
     "Name": "Singing Steelblade",
@@ -1922,7 +2096,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Dorinthea Specialization**\n\nTarget weapon attack gains +1{p}.\n\n**Reprise** - If the defending hero has defended with a card from hand this chain link, search your deck for an attack reaction card, banish it face up, then shuffle your deck. You may play it this chain link.",
-    "Type Text": "Warrior Attack Reaction"
+    "Type Text": "Warrior Attack Reaction",
+    "Is Cycle": 0
   },
   {
     "Name": "Sink Below",
@@ -1933,7 +2108,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "You may put a card from your hand on the bottom of your deck. If you do, draw a card.",
-    "Type Text": "Generic Defense Reaction"
+    "Type Text": "Generic Defense Reaction",
+    "Is Cycle": 1
   },
   {
     "Name": "Sink Below",
@@ -1944,7 +2120,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "You may put a card from your hand on the bottom of your deck. If you do, draw a card.",
-    "Type Text": "Generic Defense Reaction"
+    "Type Text": "Generic Defense Reaction",
+    "Is Cycle": 1
   },
   {
     "Name": "Sink Below",
@@ -1955,7 +2132,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "You may put a card from your hand on the bottom of your deck. If you do, draw a card.",
-    "Type Text": "Generic Defense Reaction"
+    "Type Text": "Generic Defense Reaction",
+    "Is Cycle": 1
   },
   {
     "Name": "Sloggism",
@@ -1966,7 +2144,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "The next attack action card with cost 2 or greater you play this turn gains +6{p}.\n\n**Go again**",
-    "Type Text": "Generic Action"
+    "Type Text": "Generic Action",
+    "Is Cycle": 1
   },
   {
     "Name": "Sloggism",
@@ -1977,7 +2156,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "The next attack action card with cost 2 or greater you play this turn gains +5{p}.\n\n**Go again**",
-    "Type Text": "Generic Action"
+    "Type Text": "Generic Action",
+    "Is Cycle": 1
   },
   {
     "Name": "Sloggism",
@@ -1988,7 +2168,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "The next attack action card with cost 2 or greater you play this turn gains +4{p}.\n\n**Go again**",
-    "Type Text": "Generic Action"
+    "Type Text": "Generic Action",
+    "Is Cycle": 1
   },
   {
     "Name": "Smash Instinct",
@@ -1999,7 +2180,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "When you attack with Smash Instinct, **intimidate**.",
-    "Type Text": "Brute Action – Attack"
+    "Type Text": "Brute Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Smash Instinct",
@@ -2010,7 +2192,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "When you attack with Smash Instinct, **intimidate**.",
-    "Type Text": "Brute Action – Attack"
+    "Type Text": "Brute Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Smash Instinct",
@@ -2021,7 +2204,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "When you attack with Smash Instinct, **intimidate**.",
-    "Type Text": "Brute Action – Attack"
+    "Type Text": "Brute Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Snapdragon Scalers",
@@ -2032,7 +2216,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Attack Reaction** - Destroy Snapdragon Scalers: Target attack action card with cost 1 or less gains **go again**.",
-    "Type Text": "Generic Equipment – Legs"
+    "Type Text": "Generic Equipment – Legs",
+    "Is Cycle": 0
   },
   {
     "Name": "Snatch",
@@ -2043,7 +2228,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "If Snatch hits, draw a card.",
-    "Type Text": "Generic Action – Attack"
+    "Type Text": "Generic Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Snatch",
@@ -2054,7 +2240,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "If Snatch hits, draw a card.",
-    "Type Text": "Generic Action – Attack"
+    "Type Text": "Generic Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Snatch",
@@ -2065,7 +2252,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "If Snatch hits, draw a card.",
-    "Type Text": "Generic Action – Attack"
+    "Type Text": "Generic Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Spinal Crush",
@@ -2076,7 +2264,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Crush** - If Spinal Crush deals 4 or more damage to a hero, action cards, activated abilities, and attacks they control lose and can't gain **go again** during their next action phase.",
-    "Type Text": "Guardian Action – Attack"
+    "Type Text": "Guardian Action – Attack",
+    "Is Cycle": 0
   },
   {
     "Name": "Staunch Response",
@@ -2087,7 +2276,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "As an additional cost to play Staunch Response you may pay {r}{r}{r}{r}. If you do, Staunch Response gains +3{d}.",
-    "Type Text": "Guardian Defense Reaction"
+    "Type Text": "Guardian Defense Reaction",
+    "Is Cycle": 1
   },
   {
     "Name": "Staunch Response",
@@ -2098,7 +2288,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "As an additional cost to play Staunch Response you may pay {r}{r}{r}{r}. If you do, Staunch Response gains +3{d}.",
-    "Type Text": "Guardian Defense Reaction"
+    "Type Text": "Guardian Defense Reaction",
+    "Is Cycle": 1
   },
   {
     "Name": "Staunch Response",
@@ -2109,7 +2300,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "As an additional cost to play Staunch Response you may pay {r}{r}{r}{r}. If you do, Staunch Response gains +3{d}.",
-    "Type Text": "Guardian Defense Reaction"
+    "Type Text": "Guardian Defense Reaction",
+    "Is Cycle": 1
   },
   {
     "Name": "Steelblade Shunt",
@@ -2120,7 +2312,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "If Steelblade Shunt defends a weapon attack, deal 1 damage to the attacking hero.",
-    "Type Text": "Warrior Defense Reaction"
+    "Type Text": "Warrior Defense Reaction",
+    "Is Cycle": 1
   },
   {
     "Name": "Steelblade Shunt",
@@ -2131,7 +2324,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "If Steelblade Shunt defends a weapon attack, deal 1 damage to the attacking hero.",
-    "Type Text": "Warrior Defense Reaction"
+    "Type Text": "Warrior Defense Reaction",
+    "Is Cycle": 1
   },
   {
     "Name": "Steelblade Shunt",
@@ -2142,7 +2336,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "If Steelblade Shunt defends a weapon attack, deal 1 damage to the attacking hero.",
-    "Type Text": "Warrior Defense Reaction"
+    "Type Text": "Warrior Defense Reaction",
+    "Is Cycle": 1
   },
   {
     "Name": "Steelblade Supremacy",
@@ -2153,7 +2348,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Dorinthea Specialization**\n\nUntil end of turn, target weapon gains +2{p} and \"Whenever this weapon hits, draw a card.\"\n\n**Go again**",
-    "Type Text": "Warrior Action"
+    "Type Text": "Warrior Action",
+    "Is Cycle": 0
   },
   {
     "Name": "Stonewall Confidence",
@@ -2164,7 +2360,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Go again**\n\nCards you control with cost 3 or greater gain +4{d} while defending.\n\nAt the beginning of your action phase, destroy Stonewall Confidence.",
-    "Type Text": "Guardian Action – Aura"
+    "Type Text": "Guardian Action – Aura",
+    "Is Cycle": 1
   },
   {
     "Name": "Stonewall Confidence",
@@ -2175,7 +2372,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Go again**\n\nCards you control with cost 3 or greater gain +3{d} while defending.\n\nAt the beginning of your action phase, destroy Stonewall Confidence.",
-    "Type Text": "Guardian Action – Aura"
+    "Type Text": "Guardian Action – Aura",
+    "Is Cycle": 1
   },
   {
     "Name": "Stonewall Confidence",
@@ -2186,7 +2384,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Go again**\n\nCards you control with cost 3 or greater gain +2{d} while defending.\n\nAt the beginning of your action phase, destroy Stonewall Confidence.",
-    "Type Text": "Guardian Action – Aura"
+    "Type Text": "Guardian Action – Aura",
+    "Is Cycle": 1
   },
   {
     "Name": "Stroke of Foresight",
@@ -2197,7 +2396,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "Target weapon attack gains +3{p}.\n\n**Reprise** - If the defending hero has defended with a card from their hand this chain link, draw a card, then put a card from your hand on the top or bottom of your deck.",
-    "Type Text": "Warrior Attack Reaction"
+    "Type Text": "Warrior Attack Reaction",
+    "Is Cycle": 1
   },
   {
     "Name": "Stroke of Foresight",
@@ -2208,7 +2408,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "Target weapon attack gains +2{p}.\n\n**Reprise** - If the defending hero has defended with a card from their hand this chain link, draw a card, then put a card from your hand on the top or bottom of your deck.",
-    "Type Text": "Warrior Attack Reaction"
+    "Type Text": "Warrior Attack Reaction",
+    "Is Cycle": 1
   },
   {
     "Name": "Stroke of Foresight",
@@ -2219,7 +2420,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "Target weapon attack gains +1{p}.\n\n**Reprise** - If the defending hero has defended with a card from their hand this chain link, draw a card, then put a card from your hand on the top or bottom of your deck.",
-    "Type Text": "Warrior Attack Reaction"
+    "Type Text": "Warrior Attack Reaction",
+    "Is Cycle": 1
   },
   {
     "Name": "Surging Strike",
@@ -2230,7 +2432,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Go again**",
-    "Type Text": "Ninja Action – Attack"
+    "Type Text": "Ninja Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Surging Strike",
@@ -2241,7 +2444,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Go again**",
-    "Type Text": "Ninja Action – Attack"
+    "Type Text": "Ninja Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Surging Strike",
@@ -2252,7 +2456,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Go again**",
-    "Type Text": "Ninja Action – Attack"
+    "Type Text": "Ninja Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Tectonic Plating",
@@ -2263,7 +2468,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Once per turn Action** - {r}: Create a Seismic Surge aura token. **Go again**\n\n**Battleworn**",
-    "Type Text": "Guardian Equipment – Chest"
+    "Type Text": "Guardian Equipment – Chest",
+    "Is Cycle": 0
   },
   {
     "Name": "Timesnap Potion",
@@ -2274,7 +2480,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Action** - Destroy Timesnap Potion: Gain 2 action points.",
-    "Type Text": "Generic Action – Item"
+    "Type Text": "Generic Action – Item",
+    "Is Cycle": 0
   },
   {
     "Name": "Tome of Fyendal",
@@ -2285,7 +2492,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "Draw 2 cards.\n\nIf Tome of Fyendal is played from arsenal, gain 1{h} for each card in your hand.",
-    "Type Text": "Generic Action"
+    "Type Text": "Generic Action",
+    "Is Cycle": 0
   },
   {
     "Name": "Unmovable",
@@ -2296,7 +2504,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "If Unmovable is played from arsenal, it gains +1{d}.",
-    "Type Text": "Generic Defense Reaction"
+    "Type Text": "Generic Defense Reaction",
+    "Is Cycle": 1
   },
   {
     "Name": "Unmovable",
@@ -2307,7 +2516,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "If Unmovable is played from arsenal, it gains +1{d}.",
-    "Type Text": "Generic Defense Reaction"
+    "Type Text": "Generic Defense Reaction",
+    "Is Cycle": 1
   },
   {
     "Name": "Unmovable",
@@ -2318,7 +2528,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "If Unmovable is played from arsenal, it gains +1{d}.",
-    "Type Text": "Generic Defense Reaction"
+    "Type Text": "Generic Defense Reaction",
+    "Is Cycle": 1
   },
   {
     "Name": "Warrior's Valor",
@@ -2329,7 +2540,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "Your next weapon attack this turn gains +3{p} and \"If this hits, the attack gains **go again**.\"\n\n**Go again**",
-    "Type Text": "Warrior Action"
+    "Type Text": "Warrior Action",
+    "Is Cycle": 1
   },
   {
     "Name": "Warrior's Valor",
@@ -2340,7 +2552,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "Your next weapon attack this turn gains +2{p} and \"If this hits, the attack gains **go again**.\"\n\n**Go again**",
-    "Type Text": "Warrior Action"
+    "Type Text": "Warrior Action",
+    "Is Cycle": 1
   },
   {
     "Name": "Warrior's Valor",
@@ -2351,7 +2564,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "Your next weapon attack this turn gains +1{p} and \"If this hits, the attack gains **go again**.\"\n\n**Go again**",
-    "Type Text": "Warrior Action"
+    "Type Text": "Warrior Action",
+    "Is Cycle": 1
   },
   {
     "Name": "Whelming Gustwave",
@@ -2362,7 +2576,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Combo** - If Surging Strike was the last attack this combat chain, Whelming Gustwave gains +1{p}, **go again**, and \"If this hits, draw a card.\"",
-    "Type Text": "Ninja Action – Attack"
+    "Type Text": "Ninja Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Whelming Gustwave",
@@ -2373,7 +2588,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Combo** - If Surging Strike was the last attack this combat chain, Whelming Gustwave gains +1{p}, **go again**, and \"If this hits, draw a card.\"",
-    "Type Text": "Ninja Action – Attack"
+    "Type Text": "Ninja Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Whelming Gustwave",
@@ -2384,7 +2600,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "**Combo** - If Surging Strike was the last attack this combat chain, Whelming Gustwave gains +1{p}, **go again**, and \"If this hits, draw a card.\"",
-    "Type Text": "Ninja Action – Attack"
+    "Type Text": "Ninja Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Wounded Bull",
@@ -2395,7 +2612,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "When you play Wounded Bull, if you have less {h} than an opposing hero, it gains +1{p}.",
-    "Type Text": "Generic Action – Attack"
+    "Type Text": "Generic Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Wounded Bull",
@@ -2406,7 +2624,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "When you play Wounded Bull, if you have less {h} than an opposing hero, it gains +1{p}.",
-    "Type Text": "Generic Action – Attack"
+    "Type Text": "Generic Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Wounded Bull",
@@ -2417,7 +2636,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "When you play Wounded Bull, if you have less {h} than an opposing hero, it gains +1{p}.",
-    "Type Text": "Generic Action – Attack"
+    "Type Text": "Generic Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Wounding Blow",
@@ -2428,7 +2648,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": null,
-    "Type Text": "Generic Action – Attack"
+    "Type Text": "Generic Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Wounding Blow",
@@ -2439,7 +2660,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": null,
-    "Type Text": "Generic Action – Attack"
+    "Type Text": "Generic Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Wounding Blow",
@@ -2450,7 +2672,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": null,
-    "Type Text": "Generic Action – Attack"
+    "Type Text": "Generic Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Wrecker Romp",
@@ -2461,7 +2684,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "As an additional cost to play Wrecker Romp. Discard a random card.",
-    "Type Text": "Brute Action – Attack"
+    "Type Text": "Brute Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Wrecker Romp",
@@ -2472,7 +2696,8 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "As an additional cost to play Wrecker Romp. Discard a random card.",
-    "Type Text": "Brute Action – Attack"
+    "Type Text": "Brute Action – Attack",
+    "Is Cycle": 1
   },
   {
     "Name": "Wrecker Romp",
@@ -2483,6 +2708,7 @@
     "Health": null,
     "Intelligence": null,
     "Functional Text": "As an additional cost to play Wrecker Romp. Discard a random card.",
-    "Type Text": "Brute Action – Attack"
+    "Type Text": "Brute Action – Attack",
+    "Is Cycle": 1
   }
 ]
