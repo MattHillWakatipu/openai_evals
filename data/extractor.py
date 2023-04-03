@@ -1,10 +1,10 @@
 import json
 
 # Open the file in write mode
-with open('data.jsonl', 'w') as output_file:
+with open('data.jsonl', 'w', encoding='utf8') as output_file:
 
     # Open hero file in read mode
-    with open('wtr_cards.json', 'r') as card_file:
+    with open('wtr_cards.json', 'r', encoding='utf8') as card_file:
 
         # Read from JSON file
         cards = json.loads(card_file.read())
