@@ -2,7 +2,6 @@ import json
 
 # Open the file in write mode
 with open('test.jsonl', 'w', encoding='utf8') as output_file:
-
     # Open hero file in read mode
     with open('wtr_cards.json', 'r', encoding='utf8') as card_file:
 
@@ -42,40 +41,24 @@ with open('test.jsonl', 'w', encoding='utf8') as output_file:
 
                     # TODO make this a match statement
                     if pitch == 1:
-                        colour = 'Red'
+                        name += ' (Red)'
                     elif pitch == 2:
-                        colour = 'Yellow'
+                        name += ' (Yellow)'
                     elif pitch == 3:
-                        colour = 'Blue'
+                        name += ' (Blue)'
 
-                    ideal = f"{name} ({colour}) is a '{type_text}' card from the 'Welcome to Rathe' set. " \
-                            f"It costs {cost}, " \
-                            f"pitches for {pitch}, " \
-                            f"defends for {defense}, " \
-                            f"has {power} power, " \
-                            f"and has the abilities; {functional_text}"
-
-                    # Create JSON line that includes the colour of the card
-                    json_line = {"input": [{"role": "system",
-                                            "content": f"In the card game Flesh and Blood, what does the card {name} ({colour}) do?"}],
-                                 "ideal": ideal}
-
-                    # Write to JSONL file
-                    output_file.write(json.dumps(json_line))
-                    output_file.write('\n')
-                    continue
-
-                else:
-                    ideal = f"{name} is a '{type_text}' card from the 'Welcome to Rathe' set. " \
-                            f"It costs {cost}, " \
-                            f"pitches for {pitch}, " \
-                            f"defends for {defense}, " \
-                            f"has {power} power, " \
-                            f"and has the abilities; {functional_text}"
+                ideal = f"{name} is a '{type_text}' card from the 'Welcome to Rathe' set. " \
+                        f"It costs {cost}, " \
+                        f"pitches for {pitch}, " \
+                        f"defends for {defense}, " \
+                        f"has {power} power, " \
+                        f"and has the abilities; {functional_text}"
 
             # Create JSON line
             json_line = {"input": [{"role": "system",
-                                    "content": f"In the card game Flesh and Blood, what does the card {name} do?"}],
+                                    "content": f"In the card game Flesh and Blood, what does the card {name} do? "
+                                               f"Make sure to include information when appropriate for the class, "
+                                               f"card type, cost, pitch, defence, power, and any abilities."}],
                          "ideal": ideal}
 
             # Write to JSONL file

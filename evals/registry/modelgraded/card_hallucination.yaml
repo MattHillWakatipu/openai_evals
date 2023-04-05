@@ -25,12 +25,12 @@ card_hallucination:
   choice_strings: 'YN'
   args:
     criteria:
-      set: "set: Is the set correct?"
       class: "class: Is the class correct? (eg. Brute, Warrior, Ninja, Guardian, Generic)"
       type: "type: Is the card type correct? (eg. Defense Reaction, Attack Reaction, Attack, Action, Weapon, Equipment, Hero)"
       cost: "cost: Is the cost correct?"
       pitch: "pitch: Is the pitch value correct?"
       defence: "defence: Is the defence value correct?"
+      power: "power: Is the power value correct?"
       ability: "ability: Is the ability correct?"
   input_outputs:
     input: completion
