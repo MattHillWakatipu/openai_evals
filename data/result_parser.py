@@ -10,7 +10,7 @@ with open('runs/results.csv', 'w', encoding='utf8', newline='') as output_file:
     writer.writeheader()
 
     # Open hero file in read mode
-    with open('runs/3.5-parse-test.jsonl', 'r', encoding='utf8') as input_file:
+    with open('runs/results.jsonl', 'r', encoding='utf8') as input_file:
 
         for line in input_file:
 

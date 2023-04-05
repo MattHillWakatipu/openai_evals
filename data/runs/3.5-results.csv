@@ -1,0 +1,1515 @@
+prompt,sampled
+"In the card game Flesh and Blood, what does the card Awakening Bellow (Red) do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.","Awakening Bellow (Red) is a card in the brute class of Flesh and Blood. It is an attack action card with a cost of 2 resources and a pitch value of 2. The card has a power of 4 and a defence value of 0.
+
+The ability of Awakening Bellow (Red) is that it gains +1 power for each card in the defending hero's hand. Additionally, if the attack deals 4 or more damage, the defending hero discards a card at random from their hand.
+
+Overall, Awakening Bellow (Red) is a powerful attack card that can deal significant damage and disrupt the defending hero's hand. It is particularly effective against heroes who rely on having a large hand size for their strategy."
+"In the card game Flesh and Blood, what does the card Ancestral Empowerment do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.","Ancestral Empowerment is a generic action card in Flesh and Blood. It costs 1 resource point to play and has a pitch value of 2. The card has no defence value and no power value.
+
+When played, Ancestral Empowerment allows the player to draw two cards from their deck. If the player's hero is a Runeblade, they may also reveal a Runeblade card from their hand and put it on top of their deck.
+
+This card is useful for players who want to quickly cycle through their deck and find the cards they need to win the game. It is especially useful for Runeblade heroes, who can use it to set up their next turn by putting a powerful Runeblade card on top of their deck."
+"In the card game Flesh and Blood, what does the card Alpha Rampage do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.","Alpha Rampage is a generic attack action card in Flesh and Blood. It has a cost of 3 resources and requires 2 cards of any one color to pitch. The card has a base power of 6 and no defense value.
+
+The card also has an ability that reads: ""If Alpha Rampage hits, put it on the bottom of your deck.""
+
+This means that if the attack successfully hits the opponent, the card is not discarded but instead placed at the bottom of the player's deck, allowing them to potentially draw it again later in the game.
+
+Alpha Rampage can be used by any hero class in Flesh and Blood, making it a versatile card in many different decks. Its high power and ability to potentially be reused make it a valuable addition to any aggressive strategy."
+"In the card game Flesh and Blood, what does the card Awakening Bellow (Yellow) do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.","Awakening Bellow (Yellow) is a card in the Guardian class of Flesh and Blood. It is an attack action card with a cost of 2 resources and a pitch value of 2 yellow. It has a base power of 4 and a base defence of 1.
+
+The card also has an ability that reads: ""If Awakening Bellow hits a hero, they can't play attack action cards with [Power] less than Awakening Bellow's [Power] during their next turn.""
+
+This means that if the attack successfully hits the opponent's hero, they will be restricted from playing any attack action cards with a power less than 4 during their next turn. This can be a powerful tool for controlling the opponent's options and limiting their ability to retaliate.
+
+Overall, Awakening Bellow (Yellow) is a useful card for Guardian players looking to disrupt their opponent's strategy and gain an advantage in combat."
+"In the card game Flesh and Blood, what does the card Anothos do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.","Anothos is a legendary brute class card in Flesh and Blood. It costs 6 resources to play and has a pitch value of 3. It has a defence value of 1 and a power of 8.
+
+Anothos has two abilities. The first ability is called ""Blood Debt."" When Anothos enters the arena, the player who played it takes 1 damage for each card in their hand. This damage cannot be prevented or reduced in any way.
+
+The second ability is called ""Dominate."" If Anothos hits an opposing hero, the player who played it gains control of the defending hero's next action. This means that the player can choose what the defending hero does on their next turn.
+
+Overall, Anothos is a powerful card that can deal a lot of damage and disrupt the opponent's strategy. However, the Blood Debt ability means that the player who plays it must be careful not to take too much damage themselves."
+"You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
+
+[BEGIN DATA]
+************
+[Question]: In the card game Flesh and Blood, what does the card Awakening Bellow (Red) do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.
+************
+[Model Answer]: Awakening Bellow (Red) is a 'Brute Action' card from the 'Welcome to Rathe' set. It costs 1, pitches for 1, defends for 3, has None power, and has the abilities; The next Brute attack action card you play this turn gains +3{p}.
+
+**Intimidate**
+
+**Go again**
+************
+[Submission]: Awakening Bellow (Red) is a card in the brute class of Flesh and Blood. It is an attack action card with a cost of 2 resources and a pitch value of 2. The card has a power of 4 and a defence value of 0.
+
+The ability of Awakening Bellow (Red) is that it gains +1 power for each card in the defending hero's hand. Additionally, if the attack deals 4 or more damage, the defending hero discards a card at random from their hand.
+
+Overall, Awakening Bellow (Red) is a powerful attack card that can deal significant damage and disrupt the defending hero's hand. It is particularly effective against heroes who rely on having a large hand size for their strategy.
+************
+[Criterion]: class: Is the class correct? (eg. Brute, Warrior, Ninja, Guardian, Generic)
+************
+[END DATA]
+
+Does the submission meet the criterion? Assume that the model answer is correct.
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct.
+Avoid simply stating the correct answers at the outset. Then print only the single character ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer.
+At the end, repeat just the letter again by itself on a new line.
+
+Reasoning:
+
+First, write out in a step by step manner your reasoning to be sure that your conclusion is correct. Avoid simply stating the correct answer at the outset. Then print only a single choice from ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer. At the end, repeat just the answer by itself on a new line.
+
+Reasoning:","1. The criterion is whether the class is correct.
+2. The model answer states that Awakening Bellow (Red) is a 'Brute Action' card.
+3. The submission states that Awakening Bellow (Red) is a card in the brute class.
+4. Therefore, the submission meets the criterion and the answer is ""Y"".
+
+Y"
+"You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
+
+[BEGIN DATA]
+************
+[Question]: In the card game Flesh and Blood, what does the card Ancestral Empowerment do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.
+************
+[Model Answer]: Ancestral Empowerment is a 'Ninja – Attack Reaction' card from the 'Welcome to Rathe' set. It costs 0, pitches for 1, defends for 3, has None power, and has the abilities; Target Ninja attack action card gains +1{p}.
+
+Draw a card.
+************
+[Submission]: Ancestral Empowerment is a generic action card in Flesh and Blood. It costs 1 resource point to play and has a pitch value of 2. The card has no defence value and no power value.
+
+When played, Ancestral Empowerment allows the player to draw two cards from their deck. If the player's hero is a Runeblade, they may also reveal a Runeblade card from their hand and put it on top of their deck.
+
+This card is useful for players who want to quickly cycle through their deck and find the cards they need to win the game. It is especially useful for Runeblade heroes, who can use it to set up their next turn by putting a powerful Runeblade card on top of their deck.
+************
+[Criterion]: class: Is the class correct? (eg. Brute, Warrior, Ninja, Guardian, Generic)
+************
+[END DATA]
+
+Does the submission meet the criterion? Assume that the model answer is correct.
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct.
+Avoid simply stating the correct answers at the outset. Then print only the single character ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer.
+At the end, repeat just the letter again by itself on a new line.
+
+Reasoning:
+
+First, write out in a step by step manner your reasoning to be sure that your conclusion is correct. Avoid simply stating the correct answer at the outset. Then print only a single choice from ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer. At the end, repeat just the answer by itself on a new line.
+
+Reasoning:","1. The model answer states that Ancestral Empowerment is a 'Ninja – Attack Reaction' card.
+2. The submission states that Ancestral Empowerment is a generic action card.
+3. Therefore, the submission does not meet the criterion of correctly identifying the class of the card.
+4. Answer: N
+
+N"
+"You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
+
+[BEGIN DATA]
+************
+[Question]: In the card game Flesh and Blood, what does the card Alpha Rampage do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.
+************
+[Model Answer]: Alpha Rampage is a 'Brute Action – Attack' card from the 'Welcome to Rathe' set. It costs 3, pitches for 1, defends for 3, has 9 power, and has the abilities; **Rhinar Specialization**
+
+As an additional cost to play Alpha Rampage, discard a random card.
+
+When you attack with Alpha Rampage, **intimidate**.
+************
+[Submission]: Alpha Rampage is a generic attack action card in Flesh and Blood. It has a cost of 3 resources and requires 2 cards of any one color to pitch. The card has a base power of 6 and no defense value.
+
+The card also has an ability that reads: ""If Alpha Rampage hits, put it on the bottom of your deck.""
+
+This means that if the attack successfully hits the opponent, the card is not discarded but instead placed at the bottom of the player's deck, allowing them to potentially draw it again later in the game.
+
+Alpha Rampage can be used by any hero class in Flesh and Blood, making it a versatile card in many different decks. Its high power and ability to potentially be reused make it a valuable addition to any aggressive strategy.
+************
+[Criterion]: class: Is the class correct? (eg. Brute, Warrior, Ninja, Guardian, Generic)
+************
+[END DATA]
+
+Does the submission meet the criterion? Assume that the model answer is correct.
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct.
+Avoid simply stating the correct answers at the outset. Then print only the single character ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer.
+At the end, repeat just the letter again by itself on a new line.
+
+Reasoning:
+
+First, write out in a step by step manner your reasoning to be sure that your conclusion is correct. Avoid simply stating the correct answer at the outset. Then print only a single choice from ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer. At the end, repeat just the answer by itself on a new line.
+
+Reasoning:","1. The model answer states that Alpha Rampage is a 'Brute Action – Attack' card.
+2. The submission states that Alpha Rampage is a generic attack action card.
+3. Therefore, the submission does not meet the criterion of correctly identifying the class of the card.
+4. Answer: N
+
+N"
+"You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
+
+[BEGIN DATA]
+************
+[Question]: In the card game Flesh and Blood, what does the card Awakening Bellow (Yellow) do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.
+************
+[Model Answer]: Awakening Bellow (Yellow) is a 'Brute Action' card from the 'Welcome to Rathe' set. It costs 1, pitches for 2, defends for 3, has None power, and has the abilities; The next Brute attack action card you play this turn gains +2{p}.
+
+**Intimidate**
+
+**Go again**
+************
+[Submission]: Awakening Bellow (Yellow) is a card in the Guardian class of Flesh and Blood. It is an attack action card with a cost of 2 resources and a pitch value of 2 yellow. It has a base power of 4 and a base defence of 1.
+
+The card also has an ability that reads: ""If Awakening Bellow hits a hero, they can't play attack action cards with [Power] less than Awakening Bellow's [Power] during their next turn.""
+
+This means that if the attack successfully hits the opponent's hero, they will be restricted from playing any attack action cards with a power less than 4 during their next turn. This can be a powerful tool for controlling the opponent's options and limiting their ability to retaliate.
+
+Overall, Awakening Bellow (Yellow) is a useful card for Guardian players looking to disrupt their opponent's strategy and gain an advantage in combat.
+************
+[Criterion]: class: Is the class correct? (eg. Brute, Warrior, Ninja, Guardian, Generic)
+************
+[END DATA]
+
+Does the submission meet the criterion? Assume that the model answer is correct.
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct.
+Avoid simply stating the correct answers at the outset. Then print only the single character ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer.
+At the end, repeat just the letter again by itself on a new line.
+
+Reasoning:
+
+First, write out in a step by step manner your reasoning to be sure that your conclusion is correct. Avoid simply stating the correct answer at the outset. Then print only a single choice from ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer. At the end, repeat just the answer by itself on a new line.
+
+Reasoning:","1. The model answer states that Awakening Bellow (Yellow) is a 'Brute Action' card.
+2. The submission states that Awakening Bellow (Yellow) is a card in the Guardian class.
+3. Therefore, the submission does not meet the criterion of correctly identifying the class of the card.
+4. The answer is ""N"".
+
+N"
+"You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
+
+[BEGIN DATA]
+************
+[Question]: In the card game Flesh and Blood, what does the card Anothos do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.
+************
+[Model Answer]: Anothos is a 'Guardian Weapon – Hammer (2H)' card from the 'Welcome to Rathe' set. It has 4 power and the abilities; **Once per turn Action** - {r}{r}{r}: **Attack**
+
+While there are 2 or more cards with cost 3 or greater in your pitch zone, Anothos has +2{p}.
+************
+[Submission]: Anothos is a legendary brute class card in Flesh and Blood. It costs 6 resources to play and has a pitch value of 3. It has a defence value of 1 and a power of 8.
+
+Anothos has two abilities. The first ability is called ""Blood Debt."" When Anothos enters the arena, the player who played it takes 1 damage for each card in their hand. This damage cannot be prevented or reduced in any way.
+
+The second ability is called ""Dominate."" If Anothos hits an opposing hero, the player who played it gains control of the defending hero's next action. This means that the player can choose what the defending hero does on their next turn.
+
+Overall, Anothos is a powerful card that can deal a lot of damage and disrupt the opponent's strategy. However, the Blood Debt ability means that the player who plays it must be careful not to take too much damage themselves.
+************
+[Criterion]: class: Is the class correct? (eg. Brute, Warrior, Ninja, Guardian, Generic)
+************
+[END DATA]
+
+Does the submission meet the criterion? Assume that the model answer is correct.
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct.
+Avoid simply stating the correct answers at the outset. Then print only the single character ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer.
+At the end, repeat just the letter again by itself on a new line.
+
+Reasoning:
+
+First, write out in a step by step manner your reasoning to be sure that your conclusion is correct. Avoid simply stating the correct answer at the outset. Then print only a single choice from ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer. At the end, repeat just the answer by itself on a new line.
+
+Reasoning:","1. The model answer states that Anothos is a 'Guardian Weapon – Hammer (2H)' card.
+2. The submission states that Anothos is a legendary brute class card.
+3. The criterion is asking if the class is correct.
+4. The submission's class is different from the model answer's class.
+5. Therefore, the submission does not meet the criterion.
+
+N"
+"You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
+
+[BEGIN DATA]
+************
+[Question]: In the card game Flesh and Blood, what does the card Awakening Bellow (Red) do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.
+************
+[Model Answer]: Awakening Bellow (Red) is a 'Brute Action' card from the 'Welcome to Rathe' set. It costs 1, pitches for 1, defends for 3, has None power, and has the abilities; The next Brute attack action card you play this turn gains +3{p}.
+
+**Intimidate**
+
+**Go again**
+************
+[Submission]: Awakening Bellow (Red) is a card in the brute class of Flesh and Blood. It is an attack action card with a cost of 2 resources and a pitch value of 2. The card has a power of 4 and a defence value of 0.
+
+The ability of Awakening Bellow (Red) is that it gains +1 power for each card in the defending hero's hand. Additionally, if the attack deals 4 or more damage, the defending hero discards a card at random from their hand.
+
+Overall, Awakening Bellow (Red) is a powerful attack card that can deal significant damage and disrupt the defending hero's hand. It is particularly effective against heroes who rely on having a large hand size for their strategy.
+************
+[Criterion]: type: Is the card type correct? (eg. Defense Reaction, Attack Reaction, Attack, Action, Weapon, Equipment, Hero)
+************
+[END DATA]
+
+Does the submission meet the criterion? Assume that the model answer is correct.
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct.
+Avoid simply stating the correct answers at the outset. Then print only the single character ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer.
+At the end, repeat just the letter again by itself on a new line.
+
+Reasoning:
+
+First, write out in a step by step manner your reasoning to be sure that your conclusion is correct. Avoid simply stating the correct answer at the outset. Then print only a single choice from ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer. At the end, repeat just the answer by itself on a new line.
+
+Reasoning:","1. The model answer states that Awakening Bellow (Red) is a 'Brute Action' card.
+2. The submission states that Awakening Bellow (Red) is an attack action card.
+3. 'Brute Action' and 'attack action' are not the same card type.
+4. Therefore, the submission does not meet the criterion of having the correct card type.
+
+Answer: N"
+"You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
+
+[BEGIN DATA]
+************
+[Question]: In the card game Flesh and Blood, what does the card Ancestral Empowerment do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.
+************
+[Model Answer]: Ancestral Empowerment is a 'Ninja – Attack Reaction' card from the 'Welcome to Rathe' set. It costs 0, pitches for 1, defends for 3, has None power, and has the abilities; Target Ninja attack action card gains +1{p}.
+
+Draw a card.
+************
+[Submission]: Ancestral Empowerment is a generic action card in Flesh and Blood. It costs 1 resource point to play and has a pitch value of 2. The card has no defence value and no power value.
+
+When played, Ancestral Empowerment allows the player to draw two cards from their deck. If the player's hero is a Runeblade, they may also reveal a Runeblade card from their hand and put it on top of their deck.
+
+This card is useful for players who want to quickly cycle through their deck and find the cards they need to win the game. It is especially useful for Runeblade heroes, who can use it to set up their next turn by putting a powerful Runeblade card on top of their deck.
+************
+[Criterion]: type: Is the card type correct? (eg. Defense Reaction, Attack Reaction, Attack, Action, Weapon, Equipment, Hero)
+************
+[END DATA]
+
+Does the submission meet the criterion? Assume that the model answer is correct.
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct.
+Avoid simply stating the correct answers at the outset. Then print only the single character ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer.
+At the end, repeat just the letter again by itself on a new line.
+
+Reasoning:
+
+First, write out in a step by step manner your reasoning to be sure that your conclusion is correct. Avoid simply stating the correct answer at the outset. Then print only a single choice from ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer. At the end, repeat just the answer by itself on a new line.
+
+Reasoning:","1. The model answer states that Ancestral Empowerment is a 'Ninja – Attack Reaction' card from the 'Welcome to Rathe' set.
+2. The submission states that Ancestral Empowerment is a generic action card.
+3. Therefore, the submission does not meet the criterion of having the correct card type.
+4. Answer: N
+
+N"
+"You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
+
+[BEGIN DATA]
+************
+[Question]: In the card game Flesh and Blood, what does the card Alpha Rampage do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.
+************
+[Model Answer]: Alpha Rampage is a 'Brute Action – Attack' card from the 'Welcome to Rathe' set. It costs 3, pitches for 1, defends for 3, has 9 power, and has the abilities; **Rhinar Specialization**
+
+As an additional cost to play Alpha Rampage, discard a random card.
+
+When you attack with Alpha Rampage, **intimidate**.
+************
+[Submission]: Alpha Rampage is a generic attack action card in Flesh and Blood. It has a cost of 3 resources and requires 2 cards of any one color to pitch. The card has a base power of 6 and no defense value.
+
+The card also has an ability that reads: ""If Alpha Rampage hits, put it on the bottom of your deck.""
+
+This means that if the attack successfully hits the opponent, the card is not discarded but instead placed at the bottom of the player's deck, allowing them to potentially draw it again later in the game.
+
+Alpha Rampage can be used by any hero class in Flesh and Blood, making it a versatile card in many different decks. Its high power and ability to potentially be reused make it a valuable addition to any aggressive strategy.
+************
+[Criterion]: type: Is the card type correct? (eg. Defense Reaction, Attack Reaction, Attack, Action, Weapon, Equipment, Hero)
+************
+[END DATA]
+
+Does the submission meet the criterion? Assume that the model answer is correct.
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct.
+Avoid simply stating the correct answers at the outset. Then print only the single character ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer.
+At the end, repeat just the letter again by itself on a new line.
+
+Reasoning:
+
+First, write out in a step by step manner your reasoning to be sure that your conclusion is correct. Avoid simply stating the correct answer at the outset. Then print only a single choice from ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer. At the end, repeat just the answer by itself on a new line.
+
+Reasoning:","1. The model answer states that Alpha Rampage is a 'Brute Action – Attack' card.
+2. The submission states that Alpha Rampage is a generic attack action card.
+3. The card type in the submission does not match the card type in the model answer.
+4. Therefore, the submission does not meet the criterion.
+
+N"
+"You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
+
+[BEGIN DATA]
+************
+[Question]: In the card game Flesh and Blood, what does the card Awakening Bellow (Yellow) do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.
+************
+[Model Answer]: Awakening Bellow (Yellow) is a 'Brute Action' card from the 'Welcome to Rathe' set. It costs 1, pitches for 2, defends for 3, has None power, and has the abilities; The next Brute attack action card you play this turn gains +2{p}.
+
+**Intimidate**
+
+**Go again**
+************
+[Submission]: Awakening Bellow (Yellow) is a card in the Guardian class of Flesh and Blood. It is an attack action card with a cost of 2 resources and a pitch value of 2 yellow. It has a base power of 4 and a base defence of 1.
+
+The card also has an ability that reads: ""If Awakening Bellow hits a hero, they can't play attack action cards with [Power] less than Awakening Bellow's [Power] during their next turn.""
+
+This means that if the attack successfully hits the opponent's hero, they will be restricted from playing any attack action cards with a power less than 4 during their next turn. This can be a powerful tool for controlling the opponent's options and limiting their ability to retaliate.
+
+Overall, Awakening Bellow (Yellow) is a useful card for Guardian players looking to disrupt their opponent's strategy and gain an advantage in combat.
+************
+[Criterion]: type: Is the card type correct? (eg. Defense Reaction, Attack Reaction, Attack, Action, Weapon, Equipment, Hero)
+************
+[END DATA]
+
+Does the submission meet the criterion? Assume that the model answer is correct.
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct.
+Avoid simply stating the correct answers at the outset. Then print only the single character ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer.
+At the end, repeat just the letter again by itself on a new line.
+
+Reasoning:
+
+First, write out in a step by step manner your reasoning to be sure that your conclusion is correct. Avoid simply stating the correct answer at the outset. Then print only a single choice from ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer. At the end, repeat just the answer by itself on a new line.
+
+Reasoning:","1. The model answer states that Awakening Bellow (Yellow) is a 'Brute Action' card.
+2. The submission states that Awakening Bellow (Yellow) is an attack action card.
+3. The criterion is asking if the card type is correct.
+4. The model answer and submission have different card types.
+5. Therefore, the submission does not meet the criterion.
+
+N"
+"You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
+
+[BEGIN DATA]
+************
+[Question]: In the card game Flesh and Blood, what does the card Awakening Bellow (Red) do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.
+************
+[Model Answer]: Awakening Bellow (Red) is a 'Brute Action' card from the 'Welcome to Rathe' set. It costs 1, pitches for 1, defends for 3, has None power, and has the abilities; The next Brute attack action card you play this turn gains +3{p}.
+
+**Intimidate**
+
+**Go again**
+************
+[Submission]: Awakening Bellow (Red) is a card in the brute class of Flesh and Blood. It is an attack action card with a cost of 2 resources and a pitch value of 2. The card has a power of 4 and a defence value of 0.
+
+The ability of Awakening Bellow (Red) is that it gains +1 power for each card in the defending hero's hand. Additionally, if the attack deals 4 or more damage, the defending hero discards a card at random from their hand.
+
+Overall, Awakening Bellow (Red) is a powerful attack card that can deal significant damage and disrupt the defending hero's hand. It is particularly effective against heroes who rely on having a large hand size for their strategy.
+************
+[Criterion]: cost: Is the cost correct?
+************
+[END DATA]
+
+Does the submission meet the criterion? Assume that the model answer is correct.
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct.
+Avoid simply stating the correct answers at the outset. Then print only the single character ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer.
+At the end, repeat just the letter again by itself on a new line.
+
+Reasoning:
+
+First, write out in a step by step manner your reasoning to be sure that your conclusion is correct. Avoid simply stating the correct answer at the outset. Then print only a single choice from ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer. At the end, repeat just the answer by itself on a new line.
+
+Reasoning:","1. Model answer states that Awakening Bellow (Red) costs 1.
+2. Submission states that Awakening Bellow (Red) costs 2.
+3. The cost in the submission is not correct.
+Conclusion: N
+
+N"
+"You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
+
+[BEGIN DATA]
+************
+[Question]: In the card game Flesh and Blood, what does the card Anothos do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.
+************
+[Model Answer]: Anothos is a 'Guardian Weapon – Hammer (2H)' card from the 'Welcome to Rathe' set. It has 4 power and the abilities; **Once per turn Action** - {r}{r}{r}: **Attack**
+
+While there are 2 or more cards with cost 3 or greater in your pitch zone, Anothos has +2{p}.
+************
+[Submission]: Anothos is a legendary brute class card in Flesh and Blood. It costs 6 resources to play and has a pitch value of 3. It has a defence value of 1 and a power of 8.
+
+Anothos has two abilities. The first ability is called ""Blood Debt."" When Anothos enters the arena, the player who played it takes 1 damage for each card in their hand. This damage cannot be prevented or reduced in any way.
+
+The second ability is called ""Dominate."" If Anothos hits an opposing hero, the player who played it gains control of the defending hero's next action. This means that the player can choose what the defending hero does on their next turn.
+
+Overall, Anothos is a powerful card that can deal a lot of damage and disrupt the opponent's strategy. However, the Blood Debt ability means that the player who plays it must be careful not to take too much damage themselves.
+************
+[Criterion]: type: Is the card type correct? (eg. Defense Reaction, Attack Reaction, Attack, Action, Weapon, Equipment, Hero)
+************
+[END DATA]
+
+Does the submission meet the criterion? Assume that the model answer is correct.
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct.
+Avoid simply stating the correct answers at the outset. Then print only the single character ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer.
+At the end, repeat just the letter again by itself on a new line.
+
+Reasoning:
+
+First, write out in a step by step manner your reasoning to be sure that your conclusion is correct. Avoid simply stating the correct answer at the outset. Then print only a single choice from ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer. At the end, repeat just the answer by itself on a new line.
+
+Reasoning:","1. The model answer states that Anothos is a 'Guardian Weapon – Hammer (2H)' card.
+2. The submission states that Anothos is a legendary brute class card.
+3. The card type mentioned in the model answer and the submission are different.
+4. Therefore, the submission does not meet the criterion.
+
+Answer: N"
+"You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
+
+[BEGIN DATA]
+************
+[Question]: In the card game Flesh and Blood, what does the card Ancestral Empowerment do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.
+************
+[Model Answer]: Ancestral Empowerment is a 'Ninja – Attack Reaction' card from the 'Welcome to Rathe' set. It costs 0, pitches for 1, defends for 3, has None power, and has the abilities; Target Ninja attack action card gains +1{p}.
+
+Draw a card.
+************
+[Submission]: Ancestral Empowerment is a generic action card in Flesh and Blood. It costs 1 resource point to play and has a pitch value of 2. The card has no defence value and no power value.
+
+When played, Ancestral Empowerment allows the player to draw two cards from their deck. If the player's hero is a Runeblade, they may also reveal a Runeblade card from their hand and put it on top of their deck.
+
+This card is useful for players who want to quickly cycle through their deck and find the cards they need to win the game. It is especially useful for Runeblade heroes, who can use it to set up their next turn by putting a powerful Runeblade card on top of their deck.
+************
+[Criterion]: cost: Is the cost correct?
+************
+[END DATA]
+
+Does the submission meet the criterion? Assume that the model answer is correct.
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct.
+Avoid simply stating the correct answers at the outset. Then print only the single character ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer.
+At the end, repeat just the letter again by itself on a new line.
+
+Reasoning:
+
+First, write out in a step by step manner your reasoning to be sure that your conclusion is correct. Avoid simply stating the correct answer at the outset. Then print only a single choice from ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer. At the end, repeat just the answer by itself on a new line.
+
+Reasoning:","1. Model answer states that Ancestral Empowerment costs 0.
+2. Submission states that Ancestral Empowerment costs 1.
+3. Therefore, the submission does not meet the criterion.
+Answer: N
+
+N"
+"You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
+
+[BEGIN DATA]
+************
+[Question]: In the card game Flesh and Blood, what does the card Alpha Rampage do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.
+************
+[Model Answer]: Alpha Rampage is a 'Brute Action – Attack' card from the 'Welcome to Rathe' set. It costs 3, pitches for 1, defends for 3, has 9 power, and has the abilities; **Rhinar Specialization**
+
+As an additional cost to play Alpha Rampage, discard a random card.
+
+When you attack with Alpha Rampage, **intimidate**.
+************
+[Submission]: Alpha Rampage is a generic attack action card in Flesh and Blood. It has a cost of 3 resources and requires 2 cards of any one color to pitch. The card has a base power of 6 and no defense value.
+
+The card also has an ability that reads: ""If Alpha Rampage hits, put it on the bottom of your deck.""
+
+This means that if the attack successfully hits the opponent, the card is not discarded but instead placed at the bottom of the player's deck, allowing them to potentially draw it again later in the game.
+
+Alpha Rampage can be used by any hero class in Flesh and Blood, making it a versatile card in many different decks. Its high power and ability to potentially be reused make it a valuable addition to any aggressive strategy.
+************
+[Criterion]: cost: Is the cost correct?
+************
+[END DATA]
+
+Does the submission meet the criterion? Assume that the model answer is correct.
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct.
+Avoid simply stating the correct answers at the outset. Then print only the single character ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer.
+At the end, repeat just the letter again by itself on a new line.
+
+Reasoning:
+
+First, write out in a step by step manner your reasoning to be sure that your conclusion is correct. Avoid simply stating the correct answer at the outset. Then print only a single choice from ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer. At the end, repeat just the answer by itself on a new line.
+
+Reasoning:","1. The model answer states that Alpha Rampage costs 3 resources.
+2. The submission also states that Alpha Rampage costs 3 resources.
+3. Therefore, the submission meets the criterion for cost.
+Answer: Y"
+"You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
+
+[BEGIN DATA]
+************
+[Question]: In the card game Flesh and Blood, what does the card Awakening Bellow (Yellow) do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.
+************
+[Model Answer]: Awakening Bellow (Yellow) is a 'Brute Action' card from the 'Welcome to Rathe' set. It costs 1, pitches for 2, defends for 3, has None power, and has the abilities; The next Brute attack action card you play this turn gains +2{p}.
+
+**Intimidate**
+
+**Go again**
+************
+[Submission]: Awakening Bellow (Yellow) is a card in the Guardian class of Flesh and Blood. It is an attack action card with a cost of 2 resources and a pitch value of 2 yellow. It has a base power of 4 and a base defence of 1.
+
+The card also has an ability that reads: ""If Awakening Bellow hits a hero, they can't play attack action cards with [Power] less than Awakening Bellow's [Power] during their next turn.""
+
+This means that if the attack successfully hits the opponent's hero, they will be restricted from playing any attack action cards with a power less than 4 during their next turn. This can be a powerful tool for controlling the opponent's options and limiting their ability to retaliate.
+
+Overall, Awakening Bellow (Yellow) is a useful card for Guardian players looking to disrupt their opponent's strategy and gain an advantage in combat.
+************
+[Criterion]: cost: Is the cost correct?
+************
+[END DATA]
+
+Does the submission meet the criterion? Assume that the model answer is correct.
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct.
+Avoid simply stating the correct answers at the outset. Then print only the single character ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer.
+At the end, repeat just the letter again by itself on a new line.
+
+Reasoning:
+
+First, write out in a step by step manner your reasoning to be sure that your conclusion is correct. Avoid simply stating the correct answer at the outset. Then print only a single choice from ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer. At the end, repeat just the answer by itself on a new line.
+
+Reasoning:","1. The model answer states that Awakening Bellow (Yellow) costs 1.
+2. The submission states that Awakening Bellow (Yellow) costs 2 resources.
+3. Therefore, the submission does not meet the criterion of cost being correct.
+4. Answer: N
+
+N"
+"You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
+
+[BEGIN DATA]
+************
+[Question]: In the card game Flesh and Blood, what does the card Awakening Bellow (Red) do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.
+************
+[Model Answer]: Awakening Bellow (Red) is a 'Brute Action' card from the 'Welcome to Rathe' set. It costs 1, pitches for 1, defends for 3, has None power, and has the abilities; The next Brute attack action card you play this turn gains +3{p}.
+
+**Intimidate**
+
+**Go again**
+************
+[Submission]: Awakening Bellow (Red) is a card in the brute class of Flesh and Blood. It is an attack action card with a cost of 2 resources and a pitch value of 2. The card has a power of 4 and a defence value of 0.
+
+The ability of Awakening Bellow (Red) is that it gains +1 power for each card in the defending hero's hand. Additionally, if the attack deals 4 or more damage, the defending hero discards a card at random from their hand.
+
+Overall, Awakening Bellow (Red) is a powerful attack card that can deal significant damage and disrupt the defending hero's hand. It is particularly effective against heroes who rely on having a large hand size for their strategy.
+************
+[Criterion]: pitch: Is the pitch value correct?
+************
+[END DATA]
+
+Does the submission meet the criterion? Assume that the model answer is correct.
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct.
+Avoid simply stating the correct answers at the outset. Then print only the single character ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer.
+At the end, repeat just the letter again by itself on a new line.
+
+Reasoning:
+
+First, write out in a step by step manner your reasoning to be sure that your conclusion is correct. Avoid simply stating the correct answer at the outset. Then print only a single choice from ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer. At the end, repeat just the answer by itself on a new line.
+
+Reasoning:","1. The criterion is pitch value.
+2. The model answer states that the pitch value is 1.
+3. The submission states that the pitch value is 2.
+4. Therefore, the submission does not meet the criterion.
+Answer: N
+
+N"
+"You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
+
+[BEGIN DATA]
+************
+[Question]: In the card game Flesh and Blood, what does the card Ancestral Empowerment do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.
+************
+[Model Answer]: Ancestral Empowerment is a 'Ninja – Attack Reaction' card from the 'Welcome to Rathe' set. It costs 0, pitches for 1, defends for 3, has None power, and has the abilities; Target Ninja attack action card gains +1{p}.
+
+Draw a card.
+************
+[Submission]: Ancestral Empowerment is a generic action card in Flesh and Blood. It costs 1 resource point to play and has a pitch value of 2. The card has no defence value and no power value.
+
+When played, Ancestral Empowerment allows the player to draw two cards from their deck. If the player's hero is a Runeblade, they may also reveal a Runeblade card from their hand and put it on top of their deck.
+
+This card is useful for players who want to quickly cycle through their deck and find the cards they need to win the game. It is especially useful for Runeblade heroes, who can use it to set up their next turn by putting a powerful Runeblade card on top of their deck.
+************
+[Criterion]: pitch: Is the pitch value correct?
+************
+[END DATA]
+
+Does the submission meet the criterion? Assume that the model answer is correct.
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct.
+Avoid simply stating the correct answers at the outset. Then print only the single character ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer.
+At the end, repeat just the letter again by itself on a new line.
+
+Reasoning:
+
+First, write out in a step by step manner your reasoning to be sure that your conclusion is correct. Avoid simply stating the correct answer at the outset. Then print only a single choice from ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer. At the end, repeat just the answer by itself on a new line.
+
+Reasoning:","1. The criterion is pitch value.
+2. The model answer states that the pitch value is 1.
+3. The submission states that the pitch value is 2.
+4. Therefore, the submission does not meet the criterion.
+Answer: N
+
+N"
+"You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
+
+[BEGIN DATA]
+************
+[Question]: In the card game Flesh and Blood, what does the card Alpha Rampage do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.
+************
+[Model Answer]: Alpha Rampage is a 'Brute Action – Attack' card from the 'Welcome to Rathe' set. It costs 3, pitches for 1, defends for 3, has 9 power, and has the abilities; **Rhinar Specialization**
+
+As an additional cost to play Alpha Rampage, discard a random card.
+
+When you attack with Alpha Rampage, **intimidate**.
+************
+[Submission]: Alpha Rampage is a generic attack action card in Flesh and Blood. It has a cost of 3 resources and requires 2 cards of any one color to pitch. The card has a base power of 6 and no defense value.
+
+The card also has an ability that reads: ""If Alpha Rampage hits, put it on the bottom of your deck.""
+
+This means that if the attack successfully hits the opponent, the card is not discarded but instead placed at the bottom of the player's deck, allowing them to potentially draw it again later in the game.
+
+Alpha Rampage can be used by any hero class in Flesh and Blood, making it a versatile card in many different decks. Its high power and ability to potentially be reused make it a valuable addition to any aggressive strategy.
+************
+[Criterion]: pitch: Is the pitch value correct?
+************
+[END DATA]
+
+Does the submission meet the criterion? Assume that the model answer is correct.
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct.
+Avoid simply stating the correct answers at the outset. Then print only the single character ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer.
+At the end, repeat just the letter again by itself on a new line.
+
+Reasoning:
+
+First, write out in a step by step manner your reasoning to be sure that your conclusion is correct. Avoid simply stating the correct answer at the outset. Then print only a single choice from ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer. At the end, repeat just the answer by itself on a new line.
+
+Reasoning:","1. The criterion is pitch value.
+2. The model answer states that Alpha Rampage pitches for 1.
+3. The submission states that Alpha Rampage requires 2 cards of any one color to pitch.
+4. Therefore, the submission does not meet the criterion.
+5. Answer: N
+
+N"
+"You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
+
+[BEGIN DATA]
+************
+[Question]: In the card game Flesh and Blood, what does the card Anothos do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.
+************
+[Model Answer]: Anothos is a 'Guardian Weapon – Hammer (2H)' card from the 'Welcome to Rathe' set. It has 4 power and the abilities; **Once per turn Action** - {r}{r}{r}: **Attack**
+
+While there are 2 or more cards with cost 3 or greater in your pitch zone, Anothos has +2{p}.
+************
+[Submission]: Anothos is a legendary brute class card in Flesh and Blood. It costs 6 resources to play and has a pitch value of 3. It has a defence value of 1 and a power of 8.
+
+Anothos has two abilities. The first ability is called ""Blood Debt."" When Anothos enters the arena, the player who played it takes 1 damage for each card in their hand. This damage cannot be prevented or reduced in any way.
+
+The second ability is called ""Dominate."" If Anothos hits an opposing hero, the player who played it gains control of the defending hero's next action. This means that the player can choose what the defending hero does on their next turn.
+
+Overall, Anothos is a powerful card that can deal a lot of damage and disrupt the opponent's strategy. However, the Blood Debt ability means that the player who plays it must be careful not to take too much damage themselves.
+************
+[Criterion]: cost: Is the cost correct?
+************
+[END DATA]
+
+Does the submission meet the criterion? Assume that the model answer is correct.
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct.
+Avoid simply stating the correct answers at the outset. Then print only the single character ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer.
+At the end, repeat just the letter again by itself on a new line.
+
+Reasoning:
+
+First, write out in a step by step manner your reasoning to be sure that your conclusion is correct. Avoid simply stating the correct answer at the outset. Then print only a single choice from ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer. At the end, repeat just the answer by itself on a new line.
+
+Reasoning:","1. Model answer states that Anothos costs no resources to play.
+2. Submission states that Anothos costs 6 resources to play.
+3. The submission does not meet the criterion as the cost is not correct according to the model answer.
+Conclusion: N
+
+N"
+"You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
+
+[BEGIN DATA]
+************
+[Question]: In the card game Flesh and Blood, what does the card Awakening Bellow (Red) do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.
+************
+[Model Answer]: Awakening Bellow (Red) is a 'Brute Action' card from the 'Welcome to Rathe' set. It costs 1, pitches for 1, defends for 3, has None power, and has the abilities; The next Brute attack action card you play this turn gains +3{p}.
+
+**Intimidate**
+
+**Go again**
+************
+[Submission]: Awakening Bellow (Red) is a card in the brute class of Flesh and Blood. It is an attack action card with a cost of 2 resources and a pitch value of 2. The card has a power of 4 and a defence value of 0.
+
+The ability of Awakening Bellow (Red) is that it gains +1 power for each card in the defending hero's hand. Additionally, if the attack deals 4 or more damage, the defending hero discards a card at random from their hand.
+
+Overall, Awakening Bellow (Red) is a powerful attack card that can deal significant damage and disrupt the defending hero's hand. It is particularly effective against heroes who rely on having a large hand size for their strategy.
+************
+[Criterion]: defence: Is the defence value correct?
+************
+[END DATA]
+
+Does the submission meet the criterion? Assume that the model answer is correct.
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct.
+Avoid simply stating the correct answers at the outset. Then print only the single character ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer.
+At the end, repeat just the letter again by itself on a new line.
+
+Reasoning:
+
+First, write out in a step by step manner your reasoning to be sure that your conclusion is correct. Avoid simply stating the correct answer at the outset. Then print only a single choice from ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer. At the end, repeat just the answer by itself on a new line.
+
+Reasoning:","1. The criterion is to check if the defence value is correct.
+2. The model answer states that the defence value is 3.
+3. The submission states that the defence value is 0.
+4. Therefore, the submission does not meet the criterion.
+Answer: N
+
+N"
+"You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
+
+[BEGIN DATA]
+************
+[Question]: In the card game Flesh and Blood, what does the card Awakening Bellow (Yellow) do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.
+************
+[Model Answer]: Awakening Bellow (Yellow) is a 'Brute Action' card from the 'Welcome to Rathe' set. It costs 1, pitches for 2, defends for 3, has None power, and has the abilities; The next Brute attack action card you play this turn gains +2{p}.
+
+**Intimidate**
+
+**Go again**
+************
+[Submission]: Awakening Bellow (Yellow) is a card in the Guardian class of Flesh and Blood. It is an attack action card with a cost of 2 resources and a pitch value of 2 yellow. It has a base power of 4 and a base defence of 1.
+
+The card also has an ability that reads: ""If Awakening Bellow hits a hero, they can't play attack action cards with [Power] less than Awakening Bellow's [Power] during their next turn.""
+
+This means that if the attack successfully hits the opponent's hero, they will be restricted from playing any attack action cards with a power less than 4 during their next turn. This can be a powerful tool for controlling the opponent's options and limiting their ability to retaliate.
+
+Overall, Awakening Bellow (Yellow) is a useful card for Guardian players looking to disrupt their opponent's strategy and gain an advantage in combat.
+************
+[Criterion]: pitch: Is the pitch value correct?
+************
+[END DATA]
+
+Does the submission meet the criterion? Assume that the model answer is correct.
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct.
+Avoid simply stating the correct answers at the outset. Then print only the single character ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer.
+At the end, repeat just the letter again by itself on a new line.
+
+Reasoning:
+
+First, write out in a step by step manner your reasoning to be sure that your conclusion is correct. Avoid simply stating the correct answer at the outset. Then print only a single choice from ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer. At the end, repeat just the answer by itself on a new line.
+
+Reasoning:","1. The criterion is pitch value.
+2. The model answer states that the pitch value is 2.
+3. The submission states that the pitch value is 2 yellow.
+4. ""2 yellow"" is not a valid pitch value in Flesh and Blood.
+5. Therefore, the submission does not meet the criterion.
+Answer: N
+
+N"
+"You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
+
+[BEGIN DATA]
+************
+[Question]: In the card game Flesh and Blood, what does the card Ancestral Empowerment do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.
+************
+[Model Answer]: Ancestral Empowerment is a 'Ninja – Attack Reaction' card from the 'Welcome to Rathe' set. It costs 0, pitches for 1, defends for 3, has None power, and has the abilities; Target Ninja attack action card gains +1{p}.
+
+Draw a card.
+************
+[Submission]: Ancestral Empowerment is a generic action card in Flesh and Blood. It costs 1 resource point to play and has a pitch value of 2. The card has no defence value and no power value.
+
+When played, Ancestral Empowerment allows the player to draw two cards from their deck. If the player's hero is a Runeblade, they may also reveal a Runeblade card from their hand and put it on top of their deck.
+
+This card is useful for players who want to quickly cycle through their deck and find the cards they need to win the game. It is especially useful for Runeblade heroes, who can use it to set up their next turn by putting a powerful Runeblade card on top of their deck.
+************
+[Criterion]: defence: Is the defence value correct?
+************
+[END DATA]
+
+Does the submission meet the criterion? Assume that the model answer is correct.
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct.
+Avoid simply stating the correct answers at the outset. Then print only the single character ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer.
+At the end, repeat just the letter again by itself on a new line.
+
+Reasoning:
+
+First, write out in a step by step manner your reasoning to be sure that your conclusion is correct. Avoid simply stating the correct answer at the outset. Then print only a single choice from ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer. At the end, repeat just the answer by itself on a new line.
+
+Reasoning:","1. The criterion is to check if the defence value is correct.
+2. The model answer states that the defence value is 3.
+3. The submission states that the card has no defence value.
+4. Therefore, the submission does not meet the criterion.
+Conclusion: N
+
+N"
+"You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
+
+[BEGIN DATA]
+************
+[Question]: In the card game Flesh and Blood, what does the card Alpha Rampage do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.
+************
+[Model Answer]: Alpha Rampage is a 'Brute Action – Attack' card from the 'Welcome to Rathe' set. It costs 3, pitches for 1, defends for 3, has 9 power, and has the abilities; **Rhinar Specialization**
+
+As an additional cost to play Alpha Rampage, discard a random card.
+
+When you attack with Alpha Rampage, **intimidate**.
+************
+[Submission]: Alpha Rampage is a generic attack action card in Flesh and Blood. It has a cost of 3 resources and requires 2 cards of any one color to pitch. The card has a base power of 6 and no defense value.
+
+The card also has an ability that reads: ""If Alpha Rampage hits, put it on the bottom of your deck.""
+
+This means that if the attack successfully hits the opponent, the card is not discarded but instead placed at the bottom of the player's deck, allowing them to potentially draw it again later in the game.
+
+Alpha Rampage can be used by any hero class in Flesh and Blood, making it a versatile card in many different decks. Its high power and ability to potentially be reused make it a valuable addition to any aggressive strategy.
+************
+[Criterion]: defence: Is the defence value correct?
+************
+[END DATA]
+
+Does the submission meet the criterion? Assume that the model answer is correct.
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct.
+Avoid simply stating the correct answers at the outset. Then print only the single character ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer.
+At the end, repeat just the letter again by itself on a new line.
+
+Reasoning:
+
+First, write out in a step by step manner your reasoning to be sure that your conclusion is correct. Avoid simply stating the correct answer at the outset. Then print only a single choice from ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer. At the end, repeat just the answer by itself on a new line.
+
+Reasoning:","1. The criterion is to check if the defence value is correct.
+2. The model answer states that Alpha Rampage defends for 3.
+3. The submission states that Alpha Rampage has no defence value.
+4. Therefore, the submission does not meet the criterion as it does not have the correct defence value.
+
+N"
+"You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
+
+[BEGIN DATA]
+************
+[Question]: In the card game Flesh and Blood, what does the card Anothos do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.
+************
+[Model Answer]: Anothos is a 'Guardian Weapon – Hammer (2H)' card from the 'Welcome to Rathe' set. It has 4 power and the abilities; **Once per turn Action** - {r}{r}{r}: **Attack**
+
+While there are 2 or more cards with cost 3 or greater in your pitch zone, Anothos has +2{p}.
+************
+[Submission]: Anothos is a legendary brute class card in Flesh and Blood. It costs 6 resources to play and has a pitch value of 3. It has a defence value of 1 and a power of 8.
+
+Anothos has two abilities. The first ability is called ""Blood Debt."" When Anothos enters the arena, the player who played it takes 1 damage for each card in their hand. This damage cannot be prevented or reduced in any way.
+
+The second ability is called ""Dominate."" If Anothos hits an opposing hero, the player who played it gains control of the defending hero's next action. This means that the player can choose what the defending hero does on their next turn.
+
+Overall, Anothos is a powerful card that can deal a lot of damage and disrupt the opponent's strategy. However, the Blood Debt ability means that the player who plays it must be careful not to take too much damage themselves.
+************
+[Criterion]: pitch: Is the pitch value correct?
+************
+[END DATA]
+
+Does the submission meet the criterion? Assume that the model answer is correct.
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct.
+Avoid simply stating the correct answers at the outset. Then print only the single character ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer.
+At the end, repeat just the letter again by itself on a new line.
+
+Reasoning:
+
+First, write out in a step by step manner your reasoning to be sure that your conclusion is correct. Avoid simply stating the correct answer at the outset. Then print only a single choice from ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer. At the end, repeat just the answer by itself on a new line.
+
+Reasoning:","1. The criterion is pitch value.
+2. The model answer states that Anothos has no pitch value.
+3. The submission states that Anothos has a pitch value of 3.
+4. The submission does not meet the criterion because the pitch value stated is not consistent with the model answer.
+5. Therefore, the answer is ""N"".
+
+N"
+"You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
+
+[BEGIN DATA]
+************
+[Question]: In the card game Flesh and Blood, what does the card Ancestral Empowerment do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.
+************
+[Model Answer]: Ancestral Empowerment is a 'Ninja – Attack Reaction' card from the 'Welcome to Rathe' set. It costs 0, pitches for 1, defends for 3, has None power, and has the abilities; Target Ninja attack action card gains +1{p}.
+
+Draw a card.
+************
+[Submission]: Ancestral Empowerment is a generic action card in Flesh and Blood. It costs 1 resource point to play and has a pitch value of 2. The card has no defence value and no power value.
+
+When played, Ancestral Empowerment allows the player to draw two cards from their deck. If the player's hero is a Runeblade, they may also reveal a Runeblade card from their hand and put it on top of their deck.
+
+This card is useful for players who want to quickly cycle through their deck and find the cards they need to win the game. It is especially useful for Runeblade heroes, who can use it to set up their next turn by putting a powerful Runeblade card on top of their deck.
+************
+[Criterion]: power: Is the power value correct?
+************
+[END DATA]
+
+Does the submission meet the criterion? Assume that the model answer is correct.
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct.
+Avoid simply stating the correct answers at the outset. Then print only the single character ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer.
+At the end, repeat just the letter again by itself on a new line.
+
+Reasoning:
+
+First, write out in a step by step manner your reasoning to be sure that your conclusion is correct. Avoid simply stating the correct answer at the outset. Then print only a single choice from ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer. At the end, repeat just the answer by itself on a new line.
+
+Reasoning:","1. The criterion is power value.
+2. The model answer states that Ancestral Empowerment has None power.
+3. The submission does not mention a power value for Ancestral Empowerment.
+4. Therefore, the submission meets the criterion.
+Answer: Y"
+"You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
+
+[BEGIN DATA]
+************
+[Question]: In the card game Flesh and Blood, what does the card Awakening Bellow (Yellow) do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.
+************
+[Model Answer]: Awakening Bellow (Yellow) is a 'Brute Action' card from the 'Welcome to Rathe' set. It costs 1, pitches for 2, defends for 3, has None power, and has the abilities; The next Brute attack action card you play this turn gains +2{p}.
+
+**Intimidate**
+
+**Go again**
+************
+[Submission]: Awakening Bellow (Yellow) is a card in the Guardian class of Flesh and Blood. It is an attack action card with a cost of 2 resources and a pitch value of 2 yellow. It has a base power of 4 and a base defence of 1.
+
+The card also has an ability that reads: ""If Awakening Bellow hits a hero, they can't play attack action cards with [Power] less than Awakening Bellow's [Power] during their next turn.""
+
+This means that if the attack successfully hits the opponent's hero, they will be restricted from playing any attack action cards with a power less than 4 during their next turn. This can be a powerful tool for controlling the opponent's options and limiting their ability to retaliate.
+
+Overall, Awakening Bellow (Yellow) is a useful card for Guardian players looking to disrupt their opponent's strategy and gain an advantage in combat.
+************
+[Criterion]: defence: Is the defence value correct?
+************
+[END DATA]
+
+Does the submission meet the criterion? Assume that the model answer is correct.
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct.
+Avoid simply stating the correct answers at the outset. Then print only the single character ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer.
+At the end, repeat just the letter again by itself on a new line.
+
+Reasoning:
+
+First, write out in a step by step manner your reasoning to be sure that your conclusion is correct. Avoid simply stating the correct answer at the outset. Then print only a single choice from ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer. At the end, repeat just the answer by itself on a new line.
+
+Reasoning:","1. The criterion is to check if the defence value is correct.
+2. The model answer states that the defence value is 3.
+3. The submission states that the defence value is 1.
+4. Therefore, the submission does not meet the criterion as the defence value is incorrect.
+5. Answer: N
+
+N"
+"You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
+
+[BEGIN DATA]
+************
+[Question]: In the card game Flesh and Blood, what does the card Alpha Rampage do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.
+************
+[Model Answer]: Alpha Rampage is a 'Brute Action – Attack' card from the 'Welcome to Rathe' set. It costs 3, pitches for 1, defends for 3, has 9 power, and has the abilities; **Rhinar Specialization**
+
+As an additional cost to play Alpha Rampage, discard a random card.
+
+When you attack with Alpha Rampage, **intimidate**.
+************
+[Submission]: Alpha Rampage is a generic attack action card in Flesh and Blood. It has a cost of 3 resources and requires 2 cards of any one color to pitch. The card has a base power of 6 and no defense value.
+
+The card also has an ability that reads: ""If Alpha Rampage hits, put it on the bottom of your deck.""
+
+This means that if the attack successfully hits the opponent, the card is not discarded but instead placed at the bottom of the player's deck, allowing them to potentially draw it again later in the game.
+
+Alpha Rampage can be used by any hero class in Flesh and Blood, making it a versatile card in many different decks. Its high power and ability to potentially be reused make it a valuable addition to any aggressive strategy.
+************
+[Criterion]: power: Is the power value correct?
+************
+[END DATA]
+
+Does the submission meet the criterion? Assume that the model answer is correct.
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct.
+Avoid simply stating the correct answers at the outset. Then print only the single character ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer.
+At the end, repeat just the letter again by itself on a new line.
+
+Reasoning:
+
+First, write out in a step by step manner your reasoning to be sure that your conclusion is correct. Avoid simply stating the correct answer at the outset. Then print only a single choice from ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer. At the end, repeat just the answer by itself on a new line.
+
+Reasoning:","1. The criterion is power value.
+2. The model answer states that Alpha Rampage has a power value of 9.
+3. The submission states that Alpha Rampage has a power value of 6.
+4. Therefore, the submission does not meet the criterion.
+Answer: N
+
+N"
+"You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
+
+[BEGIN DATA]
+************
+[Question]: In the card game Flesh and Blood, what does the card Awakening Bellow (Red) do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.
+************
+[Model Answer]: Awakening Bellow (Red) is a 'Brute Action' card from the 'Welcome to Rathe' set. It costs 1, pitches for 1, defends for 3, has None power, and has the abilities; The next Brute attack action card you play this turn gains +3{p}.
+
+**Intimidate**
+
+**Go again**
+************
+[Submission]: Awakening Bellow (Red) is a card in the brute class of Flesh and Blood. It is an attack action card with a cost of 2 resources and a pitch value of 2. The card has a power of 4 and a defence value of 0.
+
+The ability of Awakening Bellow (Red) is that it gains +1 power for each card in the defending hero's hand. Additionally, if the attack deals 4 or more damage, the defending hero discards a card at random from their hand.
+
+Overall, Awakening Bellow (Red) is a powerful attack card that can deal significant damage and disrupt the defending hero's hand. It is particularly effective against heroes who rely on having a large hand size for their strategy.
+************
+[Criterion]: power: Is the power value correct?
+************
+[END DATA]
+
+Does the submission meet the criterion? Assume that the model answer is correct.
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct.
+Avoid simply stating the correct answers at the outset. Then print only the single character ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer.
+At the end, repeat just the letter again by itself on a new line.
+
+Reasoning:
+
+First, write out in a step by step manner your reasoning to be sure that your conclusion is correct. Avoid simply stating the correct answer at the outset. Then print only a single choice from ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer. At the end, repeat just the answer by itself on a new line.
+
+Reasoning:","1. The criterion is to assess the correctness of the power value in the submission.
+2. The model answer states that the power value of Awakening Bellow (Red) is None.
+3. The submission states that the power value of Awakening Bellow (Red) is 4.
+4. Since the submission and the model answer have different values for the power, they cannot both be correct.
+5. Therefore, the submission does not meet the criterion.
+Answer: N"
+"You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
+
+[BEGIN DATA]
+************
+[Question]: In the card game Flesh and Blood, what does the card Awakening Bellow (Yellow) do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.
+************
+[Model Answer]: Awakening Bellow (Yellow) is a 'Brute Action' card from the 'Welcome to Rathe' set. It costs 1, pitches for 2, defends for 3, has None power, and has the abilities; The next Brute attack action card you play this turn gains +2{p}.
+
+**Intimidate**
+
+**Go again**
+************
+[Submission]: Awakening Bellow (Yellow) is a card in the Guardian class of Flesh and Blood. It is an attack action card with a cost of 2 resources and a pitch value of 2 yellow. It has a base power of 4 and a base defence of 1.
+
+The card also has an ability that reads: ""If Awakening Bellow hits a hero, they can't play attack action cards with [Power] less than Awakening Bellow's [Power] during their next turn.""
+
+This means that if the attack successfully hits the opponent's hero, they will be restricted from playing any attack action cards with a power less than 4 during their next turn. This can be a powerful tool for controlling the opponent's options and limiting their ability to retaliate.
+
+Overall, Awakening Bellow (Yellow) is a useful card for Guardian players looking to disrupt their opponent's strategy and gain an advantage in combat.
+************
+[Criterion]: power: Is the power value correct?
+************
+[END DATA]
+
+Does the submission meet the criterion? Assume that the model answer is correct.
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct.
+Avoid simply stating the correct answers at the outset. Then print only the single character ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer.
+At the end, repeat just the letter again by itself on a new line.
+
+Reasoning:
+
+First, write out in a step by step manner your reasoning to be sure that your conclusion is correct. Avoid simply stating the correct answer at the outset. Then print only a single choice from ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer. At the end, repeat just the answer by itself on a new line.
+
+Reasoning:","1. The criterion is power.
+2. The model answer states that the card has None power.
+3. The submission states that the card has a base power of 4.
+4. The submission does not meet the criterion because the power value is not correct according to the model answer.
+5. Therefore, the answer is ""N"".
+
+N"
+"You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
+
+[BEGIN DATA]
+************
+[Question]: In the card game Flesh and Blood, what does the card Alpha Rampage do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.
+************
+[Model Answer]: Alpha Rampage is a 'Brute Action – Attack' card from the 'Welcome to Rathe' set. It costs 3, pitches for 1, defends for 3, has 9 power, and has the abilities; **Rhinar Specialization**
+
+As an additional cost to play Alpha Rampage, discard a random card.
+
+When you attack with Alpha Rampage, **intimidate**.
+************
+[Submission]: Alpha Rampage is a generic attack action card in Flesh and Blood. It has a cost of 3 resources and requires 2 cards of any one color to pitch. The card has a base power of 6 and no defense value.
+
+The card also has an ability that reads: ""If Alpha Rampage hits, put it on the bottom of your deck.""
+
+This means that if the attack successfully hits the opponent, the card is not discarded but instead placed at the bottom of the player's deck, allowing them to potentially draw it again later in the game.
+
+Alpha Rampage can be used by any hero class in Flesh and Blood, making it a versatile card in many different decks. Its high power and ability to potentially be reused make it a valuable addition to any aggressive strategy.
+************
+[Criterion]: ability: Is the ability correct?
+************
+[END DATA]
+
+Does the submission meet the criterion? Assume that the model answer is correct.
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct.
+Avoid simply stating the correct answers at the outset. Then print only the single character ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer.
+At the end, repeat just the letter again by itself on a new line.
+
+Reasoning:
+
+First, write out in a step by step manner your reasoning to be sure that your conclusion is correct. Avoid simply stating the correct answer at the outset. Then print only a single choice from ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer. At the end, repeat just the answer by itself on a new line.
+
+Reasoning:","1. The criterion is to assess the correctness of the ability mentioned in the submission.
+2. The model answer states that the ability of Alpha Rampage is Rhinar Specialization and Intimidate.
+3. The submission mentions an ability that says ""If Alpha Rampage hits, put it on the bottom of your deck.""
+4. The ability mentioned in the submission is not the same as the ability mentioned in the model answer.
+5. Therefore, the submission does not meet the criterion.
+
+N
+N"
+"You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
+
+[BEGIN DATA]
+************
+[Question]: In the card game Flesh and Blood, what does the card Ancestral Empowerment do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.
+************
+[Model Answer]: Ancestral Empowerment is a 'Ninja – Attack Reaction' card from the 'Welcome to Rathe' set. It costs 0, pitches for 1, defends for 3, has None power, and has the abilities; Target Ninja attack action card gains +1{p}.
+
+Draw a card.
+************
+[Submission]: Ancestral Empowerment is a generic action card in Flesh and Blood. It costs 1 resource point to play and has a pitch value of 2. The card has no defence value and no power value.
+
+When played, Ancestral Empowerment allows the player to draw two cards from their deck. If the player's hero is a Runeblade, they may also reveal a Runeblade card from their hand and put it on top of their deck.
+
+This card is useful for players who want to quickly cycle through their deck and find the cards they need to win the game. It is especially useful for Runeblade heroes, who can use it to set up their next turn by putting a powerful Runeblade card on top of their deck.
+************
+[Criterion]: ability: Is the ability correct?
+************
+[END DATA]
+
+Does the submission meet the criterion? Assume that the model answer is correct.
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct.
+Avoid simply stating the correct answers at the outset. Then print only the single character ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer.
+At the end, repeat just the letter again by itself on a new line.
+
+Reasoning:
+
+First, write out in a step by step manner your reasoning to be sure that your conclusion is correct. Avoid simply stating the correct answer at the outset. Then print only a single choice from ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer. At the end, repeat just the answer by itself on a new line.
+
+Reasoning:","1. The criterion is to assess the correctness of the ability mentioned in the submission.
+2. The model answer states that the ability of Ancestral Empowerment is ""Target Ninja attack action card gains +1{p}. Draw a card.""
+3. The submission mentions a different ability, which allows the player to draw two cards from their deck and reveal a Runeblade card from their hand to put it on top of their deck if their hero is a Runeblade.
+4. Therefore, the submission does not meet the criterion as the ability mentioned is not correct according to the model answer.
+5. The answer is ""N"".
+
+N"
+"You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
+
+[BEGIN DATA]
+************
+[Question]: In the card game Flesh and Blood, what does the card Awakening Bellow (Red) do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.
+************
+[Model Answer]: Awakening Bellow (Red) is a 'Brute Action' card from the 'Welcome to Rathe' set. It costs 1, pitches for 1, defends for 3, has None power, and has the abilities; The next Brute attack action card you play this turn gains +3{p}.
+
+**Intimidate**
+
+**Go again**
+************
+[Submission]: Awakening Bellow (Red) is a card in the brute class of Flesh and Blood. It is an attack action card with a cost of 2 resources and a pitch value of 2. The card has a power of 4 and a defence value of 0.
+
+The ability of Awakening Bellow (Red) is that it gains +1 power for each card in the defending hero's hand. Additionally, if the attack deals 4 or more damage, the defending hero discards a card at random from their hand.
+
+Overall, Awakening Bellow (Red) is a powerful attack card that can deal significant damage and disrupt the defending hero's hand. It is particularly effective against heroes who rely on having a large hand size for their strategy.
+************
+[Criterion]: ability: Is the ability correct?
+************
+[END DATA]
+
+Does the submission meet the criterion? Assume that the model answer is correct.
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct.
+Avoid simply stating the correct answers at the outset. Then print only the single character ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer.
+At the end, repeat just the letter again by itself on a new line.
+
+Reasoning:
+
+First, write out in a step by step manner your reasoning to be sure that your conclusion is correct. Avoid simply stating the correct answer at the outset. Then print only a single choice from ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer. At the end, repeat just the answer by itself on a new line.
+
+Reasoning:","1. The criterion is to assess the correctness of the ability mentioned in the submission.
+2. The model answer states that the ability of Awakening Bellow (Red) is ""The next Brute attack action card you play this turn gains +3{p}. Intimidate. Go again.""
+3. The submission mentions a different ability for Awakening Bellow (Red), which is ""it gains +1 power for each card in the defending hero's hand. Additionally, if the attack deals 4 or more damage, the defending hero discards a card at random from their hand.""
+4. Therefore, the submission does not meet the criterion as the ability mentioned is not correct according to the model answer.
+5. The answer is ""N"".
+
+N"
+"You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
+
+[BEGIN DATA]
+************
+[Question]: In the card game Flesh and Blood, what does the card Awakening Bellow (Yellow) do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.
+************
+[Model Answer]: Awakening Bellow (Yellow) is a 'Brute Action' card from the 'Welcome to Rathe' set. It costs 1, pitches for 2, defends for 3, has None power, and has the abilities; The next Brute attack action card you play this turn gains +2{p}.
+
+**Intimidate**
+
+**Go again**
+************
+[Submission]: Awakening Bellow (Yellow) is a card in the Guardian class of Flesh and Blood. It is an attack action card with a cost of 2 resources and a pitch value of 2 yellow. It has a base power of 4 and a base defence of 1.
+
+The card also has an ability that reads: ""If Awakening Bellow hits a hero, they can't play attack action cards with [Power] less than Awakening Bellow's [Power] during their next turn.""
+
+This means that if the attack successfully hits the opponent's hero, they will be restricted from playing any attack action cards with a power less than 4 during their next turn. This can be a powerful tool for controlling the opponent's options and limiting their ability to retaliate.
+
+Overall, Awakening Bellow (Yellow) is a useful card for Guardian players looking to disrupt their opponent's strategy and gain an advantage in combat.
+************
+[Criterion]: ability: Is the ability correct?
+************
+[END DATA]
+
+Does the submission meet the criterion? Assume that the model answer is correct.
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct.
+Avoid simply stating the correct answers at the outset. Then print only the single character ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer.
+At the end, repeat just the letter again by itself on a new line.
+
+Reasoning:
+
+First, write out in a step by step manner your reasoning to be sure that your conclusion is correct. Avoid simply stating the correct answer at the outset. Then print only a single choice from ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer. At the end, repeat just the answer by itself on a new line.
+
+Reasoning:","1. The criterion is to assess the correctness of the ability mentioned in the submission.
+2. The model answer mentions two abilities: ""The next Brute attack action card you play this turn gains +2{p}"" and ""Intimidate"" with ""Go again"".
+3. The submission mentions a different ability: ""If Awakening Bellow hits a hero, they can't play attack action cards with [Power] less than Awakening Bellow's [Power] during their next turn.""
+4. The submission's ability is not mentioned in the model answer.
+5. Therefore, the submission does not meet the criterion as the ability mentioned is not correct according to the model answer.
+
+N"
+"In the card game Flesh and Blood, what does the card Anothos do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.","Anothos is a legendary brute class card in Flesh and Blood. It costs 6 resources to play and has a pitch value of 3. It has a defence value of 1 and a power of 8.
+
+Anothos has two abilities. The first ability is called ""Blood Debt."" When Anothos enters the arena, the player who played it takes 1 damage for each card in their hand. This damage cannot be prevented or reduced in any way.
+
+The second ability is called ""Dominate."" If Anothos hits an opposing hero, the player who played it gains control of the defending hero's next action. This means that the player can choose what the defending hero does on their next turn.
+
+Overall, Anothos is a powerful card that can deal a lot of damage and disrupt the opponent's strategy. However, the Blood Debt ability means that the player who plays it must be careful not to take too much damage themselves."
+"You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
+
+[BEGIN DATA]
+************
+[Question]: In the card game Flesh and Blood, what does the card Anothos do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.
+************
+[Model Answer]: Anothos is a 'Guardian Weapon – Hammer (2H)' card from the 'Welcome to Rathe' set. It has 4 power and the abilities; **Once per turn Action** - {r}{r}{r}: **Attack**
+
+While there are 2 or more cards with cost 3 or greater in your pitch zone, Anothos has +2{p}.
+************
+[Submission]: Anothos is a legendary brute class card in Flesh and Blood. It costs 6 resources to play and has a pitch value of 3. It has a defence value of 1 and a power of 8.
+
+Anothos has two abilities. The first ability is called ""Blood Debt."" When Anothos enters the arena, the player who played it takes 1 damage for each card in their hand. This damage cannot be prevented or reduced in any way.
+
+The second ability is called ""Dominate."" If Anothos hits an opposing hero, the player who played it gains control of the defending hero's next action. This means that the player can choose what the defending hero does on their next turn.
+
+Overall, Anothos is a powerful card that can deal a lot of damage and disrupt the opponent's strategy. However, the Blood Debt ability means that the player who plays it must be careful not to take too much damage themselves.
+************
+[Criterion]: class: Is the class correct? (eg. Brute, Warrior, Ninja, Guardian, Generic)
+************
+[END DATA]
+
+Does the submission meet the criterion? Assume that the model answer is correct.
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct.
+Avoid simply stating the correct answers at the outset. Then print only the single character ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer.
+At the end, repeat just the letter again by itself on a new line.
+
+Reasoning:
+
+First, write out in a step by step manner your reasoning to be sure that your conclusion is correct. Avoid simply stating the correct answer at the outset. Then print only a single choice from ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer. At the end, repeat just the answer by itself on a new line.
+
+Reasoning:","1. The model answer states that Anothos is a 'Guardian Weapon – Hammer (2H)' card.
+2. The submission states that Anothos is a legendary brute class card.
+3. The criterion is asking if the class is correct.
+4. The submission's class is different from the model answer's class.
+5. Therefore, the submission does not meet the criterion.
+
+N"
+"You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
+
+[BEGIN DATA]
+************
+[Question]: In the card game Flesh and Blood, what does the card Anothos do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.
+************
+[Model Answer]: Anothos is a 'Guardian Weapon – Hammer (2H)' card from the 'Welcome to Rathe' set. It has 4 power and the abilities; **Once per turn Action** - {r}{r}{r}: **Attack**
+
+While there are 2 or more cards with cost 3 or greater in your pitch zone, Anothos has +2{p}.
+************
+[Submission]: Anothos is a legendary brute class card in Flesh and Blood. It costs 6 resources to play and has a pitch value of 3. It has a defence value of 1 and a power of 8.
+
+Anothos has two abilities. The first ability is called ""Blood Debt."" When Anothos enters the arena, the player who played it takes 1 damage for each card in their hand. This damage cannot be prevented or reduced in any way.
+
+The second ability is called ""Dominate."" If Anothos hits an opposing hero, the player who played it gains control of the defending hero's next action. This means that the player can choose what the defending hero does on their next turn.
+
+Overall, Anothos is a powerful card that can deal a lot of damage and disrupt the opponent's strategy. However, the Blood Debt ability means that the player who plays it must be careful not to take too much damage themselves.
+************
+[Criterion]: type: Is the card type correct? (eg. Defense Reaction, Attack Reaction, Attack, Action, Weapon, Equipment, Hero)
+************
+[END DATA]
+
+Does the submission meet the criterion? Assume that the model answer is correct.
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct.
+Avoid simply stating the correct answers at the outset. Then print only the single character ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer.
+At the end, repeat just the letter again by itself on a new line.
+
+Reasoning:
+
+First, write out in a step by step manner your reasoning to be sure that your conclusion is correct. Avoid simply stating the correct answer at the outset. Then print only a single choice from ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer. At the end, repeat just the answer by itself on a new line.
+
+Reasoning:","1. The model answer states that Anothos is a 'Guardian Weapon – Hammer (2H)' card.
+2. The submission states that Anothos is a legendary brute class card.
+3. The card type mentioned in the model answer and the submission are different.
+4. Therefore, the submission does not meet the criterion.
+
+Answer: N"
+"You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
+
+[BEGIN DATA]
+************
+[Question]: In the card game Flesh and Blood, what does the card Anothos do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.
+************
+[Model Answer]: Anothos is a 'Guardian Weapon – Hammer (2H)' card from the 'Welcome to Rathe' set. It has 4 power and the abilities; **Once per turn Action** - {r}{r}{r}: **Attack**
+
+While there are 2 or more cards with cost 3 or greater in your pitch zone, Anothos has +2{p}.
+************
+[Submission]: Anothos is a legendary brute class card in Flesh and Blood. It costs 6 resources to play and has a pitch value of 3. It has a defence value of 1 and a power of 8.
+
+Anothos has two abilities. The first ability is called ""Blood Debt."" When Anothos enters the arena, the player who played it takes 1 damage for each card in their hand. This damage cannot be prevented or reduced in any way.
+
+The second ability is called ""Dominate."" If Anothos hits an opposing hero, the player who played it gains control of the defending hero's next action. This means that the player can choose what the defending hero does on their next turn.
+
+Overall, Anothos is a powerful card that can deal a lot of damage and disrupt the opponent's strategy. However, the Blood Debt ability means that the player who plays it must be careful not to take too much damage themselves.
+************
+[Criterion]: cost: Is the cost correct?
+************
+[END DATA]
+
+Does the submission meet the criterion? Assume that the model answer is correct.
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct.
+Avoid simply stating the correct answers at the outset. Then print only the single character ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer.
+At the end, repeat just the letter again by itself on a new line.
+
+Reasoning:
+
+First, write out in a step by step manner your reasoning to be sure that your conclusion is correct. Avoid simply stating the correct answer at the outset. Then print only a single choice from ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer. At the end, repeat just the answer by itself on a new line.
+
+Reasoning:","1. Model answer states that Anothos costs no resources to play.
+2. Submission states that Anothos costs 6 resources to play.
+3. The submission does not meet the criterion as the cost is not correct according to the model answer.
+Conclusion: N
+
+N"
+"You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
+
+[BEGIN DATA]
+************
+[Question]: In the card game Flesh and Blood, what does the card Anothos do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.
+************
+[Model Answer]: Anothos is a 'Guardian Weapon – Hammer (2H)' card from the 'Welcome to Rathe' set. It has 4 power and the abilities; **Once per turn Action** - {r}{r}{r}: **Attack**
+
+While there are 2 or more cards with cost 3 or greater in your pitch zone, Anothos has +2{p}.
+************
+[Submission]: Anothos is a legendary brute class card in Flesh and Blood. It costs 6 resources to play and has a pitch value of 3. It has a defence value of 1 and a power of 8.
+
+Anothos has two abilities. The first ability is called ""Blood Debt."" When Anothos enters the arena, the player who played it takes 1 damage for each card in their hand. This damage cannot be prevented or reduced in any way.
+
+The second ability is called ""Dominate."" If Anothos hits an opposing hero, the player who played it gains control of the defending hero's next action. This means that the player can choose what the defending hero does on their next turn.
+
+Overall, Anothos is a powerful card that can deal a lot of damage and disrupt the opponent's strategy. However, the Blood Debt ability means that the player who plays it must be careful not to take too much damage themselves.
+************
+[Criterion]: pitch: Is the pitch value correct?
+************
+[END DATA]
+
+Does the submission meet the criterion? Assume that the model answer is correct.
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct.
+Avoid simply stating the correct answers at the outset. Then print only the single character ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer.
+At the end, repeat just the letter again by itself on a new line.
+
+Reasoning:
+
+First, write out in a step by step manner your reasoning to be sure that your conclusion is correct. Avoid simply stating the correct answer at the outset. Then print only a single choice from ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer. At the end, repeat just the answer by itself on a new line.
+
+Reasoning:","1. The criterion is pitch value.
+2. The model answer states that Anothos has no pitch value.
+3. The submission states that Anothos has a pitch value of 3.
+4. The submission does not meet the criterion because the pitch value stated is not consistent with the model answer.
+5. Therefore, the answer is ""N"".
+
+N"
+"You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
+
+[BEGIN DATA]
+************
+[Question]: In the card game Flesh and Blood, what does the card Anothos do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.
+************
+[Model Answer]: Anothos is a 'Guardian Weapon – Hammer (2H)' card from the 'Welcome to Rathe' set. It has 4 power and the abilities; **Once per turn Action** - {r}{r}{r}: **Attack**
+
+While there are 2 or more cards with cost 3 or greater in your pitch zone, Anothos has +2{p}.
+************
+[Submission]: Anothos is a legendary brute class card in Flesh and Blood. It costs 6 resources to play and has a pitch value of 3. It has a defence value of 1 and a power of 8.
+
+Anothos has two abilities. The first ability is called ""Blood Debt."" When Anothos enters the arena, the player who played it takes 1 damage for each card in their hand. This damage cannot be prevented or reduced in any way.
+
+The second ability is called ""Dominate."" If Anothos hits an opposing hero, the player who played it gains control of the defending hero's next action. This means that the player can choose what the defending hero does on their next turn.
+
+Overall, Anothos is a powerful card that can deal a lot of damage and disrupt the opponent's strategy. However, the Blood Debt ability means that the player who plays it must be careful not to take too much damage themselves.
+************
+[Criterion]: defence: Is the defence value correct?
+************
+[END DATA]
+
+Does the submission meet the criterion? Assume that the model answer is correct.
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct.
+Avoid simply stating the correct answers at the outset. Then print only the single character ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer.
+At the end, repeat just the letter again by itself on a new line.
+
+Reasoning:
+
+First, write out in a step by step manner your reasoning to be sure that your conclusion is correct. Avoid simply stating the correct answer at the outset. Then print only a single choice from ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer. At the end, repeat just the answer by itself on a new line.
+
+Reasoning:","1. The criterion is to assess the correctness of the defence value.
+2. The model answer does not provide a defence value for Anothos.
+3. The submission claims that Anothos has a defence value of 1.
+4. Since the model answer does not provide a defence value, we cannot determine if the submission is correct or not.
+5. Therefore, the answer is ""N"".
+
+N"
+"You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
+
+[BEGIN DATA]
+************
+[Question]: In the card game Flesh and Blood, what does the card Anothos do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.
+************
+[Model Answer]: Anothos is a 'Guardian Weapon – Hammer (2H)' card from the 'Welcome to Rathe' set. It has 4 power and the abilities; **Once per turn Action** - {r}{r}{r}: **Attack**
+
+While there are 2 or more cards with cost 3 or greater in your pitch zone, Anothos has +2{p}.
+************
+[Submission]: Anothos is a legendary brute class card in Flesh and Blood. It costs 6 resources to play and has a pitch value of 3. It has a defence value of 1 and a power of 8.
+
+Anothos has two abilities. The first ability is called ""Blood Debt."" When Anothos enters the arena, the player who played it takes 1 damage for each card in their hand. This damage cannot be prevented or reduced in any way.
+
+The second ability is called ""Dominate."" If Anothos hits an opposing hero, the player who played it gains control of the defending hero's next action. This means that the player can choose what the defending hero does on their next turn.
+
+Overall, Anothos is a powerful card that can deal a lot of damage and disrupt the opponent's strategy. However, the Blood Debt ability means that the player who plays it must be careful not to take too much damage themselves.
+************
+[Criterion]: power: Is the power value correct?
+************
+[END DATA]
+
+Does the submission meet the criterion? Assume that the model answer is correct.
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct.
+Avoid simply stating the correct answers at the outset. Then print only the single character ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer.
+At the end, repeat just the letter again by itself on a new line.
+
+Reasoning:
+
+First, write out in a step by step manner your reasoning to be sure that your conclusion is correct. Avoid simply stating the correct answer at the outset. Then print only a single choice from ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer. At the end, repeat just the answer by itself on a new line.
+
+Reasoning:","1. The criterion is power value.
+2. The model answer states that Anothos has a power value of 4.
+3. The submission states that Anothos has a power value of 8.
+4. Therefore, the submission does not meet the criterion.
+Answer: N"
+"You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
+
+[BEGIN DATA]
+************
+[Question]: In the card game Flesh and Blood, what does the card Anothos do? Make sure to include information when appropriate for the class, card type, cost, pitch, defence, power, and any abilities.
+************
+[Model Answer]: Anothos is a 'Guardian Weapon – Hammer (2H)' card from the 'Welcome to Rathe' set. It has 4 power and the abilities; **Once per turn Action** - {r}{r}{r}: **Attack**
+
+While there are 2 or more cards with cost 3 or greater in your pitch zone, Anothos has +2{p}.
+************
+[Submission]: Anothos is a legendary brute class card in Flesh and Blood. It costs 6 resources to play and has a pitch value of 3. It has a defence value of 1 and a power of 8.
+
+Anothos has two abilities. The first ability is called ""Blood Debt."" When Anothos enters the arena, the player who played it takes 1 damage for each card in their hand. This damage cannot be prevented or reduced in any way.
+
+The second ability is called ""Dominate."" If Anothos hits an opposing hero, the player who played it gains control of the defending hero's next action. This means that the player can choose what the defending hero does on their next turn.
+
+Overall, Anothos is a powerful card that can deal a lot of damage and disrupt the opponent's strategy. However, the Blood Debt ability means that the player who plays it must be careful not to take too much damage themselves.
+************
+[Criterion]: ability: Is the ability correct?
+************
+[END DATA]
+
+Does the submission meet the criterion? Assume that the model answer is correct.
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct.
+Avoid simply stating the correct answers at the outset. Then print only the single character ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer.
+At the end, repeat just the letter again by itself on a new line.
+
+Reasoning:
+
+First, write out in a step by step manner your reasoning to be sure that your conclusion is correct. Avoid simply stating the correct answer at the outset. Then print only a single choice from ""Y"" or ""N"" (without quotes or punctuation) on its own line corresponding to the correct answer. At the end, repeat just the answer by itself on a new line.
+
+Reasoning:","1. The criterion is to assess the correctness of the ability mentioned in the submission.
+2. The model answer mentions only one ability for Anothos - ""Once per turn Action - {r}{r}{r}: Attack"" and a condition for its power boost.
+3. The submission mentions two abilities - ""Blood Debt"" and ""Dominate"".
+4. Neither of the abilities mentioned in the submission match the ability mentioned in the model answer.
+5. Therefore, the submission does not meet the criterion.
+6. Answer: N
+
+N"
