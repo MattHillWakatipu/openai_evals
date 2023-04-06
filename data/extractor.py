@@ -1,9 +1,14 @@
+import csv
 import json
 
 # Open the file in write mode
 with open('wtr_cards.json', 'r', encoding='utf8') as card_file, \
-        open('embedding.json', 'w', encoding='utf8') as embedding_file, \
+        open('embedding.csv', 'w', encoding='utf8') as embedding_file, \
         open('test.jsonl', 'w', encoding='utf8') as output_file:
+
+    # Create csv writer and write header
+    writer = csv.writer(embedding_file, delimiter=',', lineterminator='\n')
+    writer.writerow(['Name', 'Description'])
 
     # Read from JSON file
     cards = json.loads(card_file.read())
@@ -64,3 +69,7 @@ with open('wtr_cards.json', 'r', encoding='utf8') as card_file, \
         # Write to JSONL file
         output_file.write(json.dumps(json_line))
         output_file.write('\n')
+
+        # Write to embedding CSV file
+        embedding_row = [name, ideal]
+        writer.writerow(embedding_row)
