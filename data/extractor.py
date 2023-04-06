@@ -8,7 +8,7 @@ with open('wtr_cards.json', 'r', encoding='utf8') as card_file, \
 
     # Create csv writer and write header
     writer = csv.writer(embedding_file, delimiter=',', lineterminator='\n')
-    writer.writerow(['Name', 'Description'])
+    writer.writerow(['name', 'description'])
 
     # Read from JSON file
     cards = json.loads(card_file.read())
