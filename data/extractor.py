@@ -4,7 +4,7 @@ import json
 # Open the file in write mode
 with open('wtr_cards.json', 'r', encoding='utf8') as card_file, \
         open('embedding.csv', 'w', encoding='utf8') as embedding_file, \
-        open('test.jsonl', 'w', encoding='utf8') as output_file:
+        open('data.jsonl', 'w', encoding='utf8') as output_file:
 
     # Create csv writer and write header
     writer = csv.writer(embedding_file, delimiter=',', lineterminator='\n')
@@ -12,8 +12,6 @@ with open('wtr_cards.json', 'r', encoding='utf8') as card_file, \
 
     # Read from JSON file
     cards = json.loads(card_file.read())
-
-    cards = cards[0:2]
 
     # For each card construct an ideal answer string and save it to the JSONL file
     for card in cards:
