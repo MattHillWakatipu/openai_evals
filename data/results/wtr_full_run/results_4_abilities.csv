@@ -649,7 +649,7 @@ Reasoning:","1. The criterion is to check if the abilities of the card are corre
 6. The submission provides a different value for the power boost (+3 instead of +1) but this is not marked as incorrect in the criterion.
 7. Therefore, based on the criterion, the submission meets the requirement for correct abilities.
 
-Answer: Y",1,0
+Answer: Y",1,1
 "You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
 
 [BEGIN DATA]
@@ -1212,7 +1212,7 @@ Reasoning:","1. Identify the abilities listed in the model answer:
 4. Determine if the submission meets the criterion:
 - The submission provides all of the abilities listed in the model answer, and does not include any additional abilities. Therefore, the submission meets the criterion.
 
-Conclusion: Y",1,0
+Conclusion: Y",1,1
 "You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
 
 [BEGIN DATA]
@@ -1599,7 +1599,7 @@ Reasoning:","1. The criterion is to check if the abilities of the card are corre
 4. The submission's ability description matches the model answer's ability description.
 5. Therefore, the submission meets the criterion.
 
-Y",1,0
+Y",1,1
 "You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
 
 [BEGIN DATA]
@@ -1680,7 +1680,7 @@ Reasoning:","1. The criterion is to check if the abilities of the card are corre
 4. The submission's ability is slightly different from the model answer's ability in that it specifies ""attack action card"" instead of ""weapon.""
 5. However, the submission's ability still captures the essence of the model answer's ability and does not provide any additional abilities not contained within the model answer.
 6. Therefore, the submission meets the criterion.
-Answer: Y",1,0
+Answer: Y",1,1
 "You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
 
 [BEGIN DATA]
@@ -2458,7 +2458,7 @@ Reasoning:","1. The criterion is to assess whether the abilities of the card in 
    b. At the beginning of your action phase, destroy Blessing of Deliverance and gain 3 life.
 4. Both the model answer and the submission mention the same abilities, but the submission uses slightly different wording for the first ability.
 5. Therefore, the submission meets the criterion.
-Answer: Y",1,0
+Answer: Y",1,1
 "You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
 
 [BEGIN DATA]
@@ -2902,7 +2902,7 @@ Reasoning:","1. The criterion is to check if the abilities of the card are corre
 2. The model answer states that the card has no abilities.
 3. The submission also states that the card has no abilities.
 4. Therefore, the submission meets the criterion.
-Answer: Y",1,0
+Answer: Y",1,1
 "You are assessing the correctness of a submitted answer on a given task based on a criterion and a model answer. Here is the data:
 
 [BEGIN DATA]
